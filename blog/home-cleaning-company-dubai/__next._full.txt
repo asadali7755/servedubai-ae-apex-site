@@ -1,0 +1,523 @@
+1:"$Sreact.fragment"
+2:I[79520,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],""]
+4:I[94717,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"RequestCallProvider"]
+5:I[70119,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+6:I[39756,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+7:I[37457,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+8:I[22016,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js","/_next/static/chunks/04wh-_u4rta40.js"],""]
+9:I[56691,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+a:I[82358,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+b:I[28757,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+d:I[97367,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"MetadataBoundary"]
+15:I[68027,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default",1]
+:HL["/_next/static/chunks/0mybi6gdz5h-4.css","style"]
+:HL["/_next/static/chunks/0p~kwtc~o8e55.css","style"]
+:HL["/_next/static/media/769a6a68ede5e496-s.p.0hb-53.60tg-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ddd198311ba7843-s.p.11f_0f-25f9yg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:["$","iframe",null,{"src":"https://www.googletagmanager.com/ns.html?id=GTM-5MXKNSJ4","height":"0","width":"0","style":{"display":"none","visibility":"hidden"}}]
+0:{"P":null,"c":["","blog","home-cleaning-company-dubai"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","home-cleaning-company-dubai","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0mybi6gdz5h-4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0p~kwtc~o8e55.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/03xd~cau~.qq_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11hqrz-.rh7v8.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/182fs1hn0ahor.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/07h-lbp6rv0rd.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0xbcw5owglc7e.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-AE","className":"josefin_sans_665e52fe-module__ouybQq__variable work_sans_cb649862-module__XHLQia__variable","data-theme":"light","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","$L2",null,{"id":"gtm-script","strategy":"afterInteractive","dangerouslySetInnerHTML":{"__html":"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5MXKNSJ4');"}}],["$","body",null,{"className":"min-h-screen flex flex-col theme-body","children":[["$","noscript",null,{"children":"$3"}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[60vh] text-center px-4","children":[["$","h1",null,{"className":"text-3xl font-bold text-white mb-3","style":{"fontFamily":"var(--font-josefin)"},"children":"Page Not Found"}],["$","p",null,{"className":"text-gray-400 mb-8 max-w-md","children":"We couldn't find the page you were looking for. It may have been moved or doesn't exist."}],["$","$L8",null,{"href":"/","className":"px-6 py-3 rounded-lg font-semibold text-white transition-opacity hover:opacity-90","style":{"background":"#c9a84c","color":"#151515","minHeight":"44px","display":"inline-flex","alignItems":"center"},"children":"Return to Homepage"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/04wh-_u4rta40.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0mybi6gdz5h-4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0p~kwtc~o8e55.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"8BKQeoeWrac48pno6nxkZ"}
+16:[]
+10:"$W16"
+17:T1468,[{"url":"https://servedubai.ae/blog/home-cleaning-company-dubai","@type":"Article","author":{"url":"https://servedubai.ae","name":"Madinat Al Haya","@type":"Organization"},"@context":"https://schema.org","headline":"Ultimate Guide to Choosing a Home Cleaning Company Dubai","publisher":{"url":"https://servedubai.ae","name":"Madinat Al Haya","@type":"Organization"},"wordCount":4888,"description":"Discover how to pick the best home cleaning company Dubai offers. Our guide reveals pricing tips, red‑flag alerts, and expert advice for a spotless home.","dateModified":"2026-07-23T06:03:03.857Z","mainEntityOfPage":{"@id":"https://servedubai.ae/blog/home-cleaning-company-dubai","@type":"WebPage"}},{"@type":"BreadcrumbList","@context":"https://schema.org","itemListElement":[{"item":"https://servedubai.ae","name":"Home","@type":"ListItem","position":1},{"item":"https://servedubai.ae/blog","name":"Blog","@type":"ListItem","position":2},{"item":"https://servedubai.ae/blog/home-cleaning-company-dubai","name":"Ultimate Guide to Choosing a Home Cleaning Company Dubai","@type":"ListItem","position":3}]},{"@type":"FAQPage","@context":"https://schema.org","mainEntity":[{"name":"What does ‘deep cleaning’ include for high‑rise apartments in Dubai?","@type":"Question","acceptedAnswer":{"text":"Deep cleaning for high‑rise apartments typically covers everything in a standard clean plus detailed work such as cleaning inside ovens and microwaves, wiping the interior of cabinets, scrubbing grout and tile joints, dusting vents and light fixtures, polishing glass surfaces, washing interior windows, and cleaning baseboards and skirting. It also includes thorough bathroom sanitation and floor‑to‑ceiling dust removal.","@type":"Answer"}},{"name":"How are cleaners vetted for cultural sensitivities and UAE labor law compliance?","@type":"Question","acceptedAnswer":{"text":"Madinat Al Haya screens every cleaner with a multi‑step process: government‑issued ID and labor‑card verification, criminal background check, and reference validation. All staff receive a mandatory cultural‑sensitivity workshop covering local customs, dress code and language basics, plus training on UAE labor‑law rights and duties. Ongoing performance reviews ensure compliance throughout employment.","@type":"Answer"}},{"name":"Can I pay for cleaning services using Apple Pay or local e‑wallets?","@type":"Question","acceptedAnswer":{"text":"Madinat Al Haya accepts a range of digital payments to suit Dubai residents. In addition to cash and major credit cards, Apple Pay and local e‑wallets such as Emirates Pay, Samsung Pay and Careem Pay are supported for online bookings. For the most up‑to‑date list, please check the payment page or contact the service desk.","@type":"Answer"}},{"name":"Are there any hidden fees for extra rooms or pet hair removal?","@type":"Question","acceptedAnswer":{"text":"Madinat Al Haya is transparent about pricing. The quoted rate covers the rooms specified in the booking. Adding extra bedrooms, bathrooms or specialised pet‑hair removal is considered an additional service and will be priced before the job begins. There are no hidden surcharges; any extra work is discussed and approved in advance.","@type":"Answer"}},{"name":"What green‑cleaning certifications should I look for in a Dubai cleaning company?","@type":"Question","acceptedAnswer":{"text":"When evaluating eco‑friendly cleaning in Dubai, look for certifications such as ISO 14001 (environmental management), Green Seal, or the Dubai Municipality’s ‘Green Building’ label. Some companies also display the Safer Choice seal from the US EPA for low‑toxicity products. These credentials confirm that the provider follows recognised standards for sustainable cleaning.","@type":"Answer"}},{"name":"How does the COVID‑19 hygiene protocol differ between cleaning providers?","@type":"Question","acceptedAnswer":{"text":"COVID‑19 protocols vary by provider but reputable firms in Dubai follow the Dubai Health Authority’s guidelines: cleaners wear N95 masks, gloves and eye protection; high‑touch surfaces receive a minimum of 5‑minute dwell time with EPA‑approved disinfectants; and equipment is sanitized after each job. Some companies also offer post‑exposure reporting and contact‑less payment.","@type":"Answer"}},{"name":"Is there a discount for recurring weekly or monthly bookings?","@type":"Question","acceptedAnswer":{"text":"Madinat Al Haya rewards regular customers. Clients who schedule weekly or monthly cleanings typically receive a discount ranging from 5 % to 10 % off the standard rate. The exact percentage depends on the frequency, service scope and contract length, so it’s best to request a customised quote for recurring bookings.","@type":"Answer"}},{"name":"","@type":"Question","acceptedAnswer":{"text":"The guarantee terms are outlined in the service agreement.","@type":"Answer"}}]},{"url":"https://servedubai.ae","name":"Madinat Al Haya","@type":"LocalBusiness","address":{"@type":"PostalAddress","addressCountry":"AE"},"@context":"https://schema.org","telephone":"+971 55 127 5545","areaServed":{"name":"AE","@type":"Country"},"priceRange":"$$"}]c:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18","$L19","$L1a"]
+1b:I[5500,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js","/_next/static/chunks/04wh-_u4rta40.js"],"Image"]
+20:I[45686,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js","/_next/static/chunks/04wh-_u4rta40.js"],"default"]
+1c:T71c7,<p>Imagine coming home after a long day to find <a href="https://servedubai.ae/services/sofa-cleaning">dust on the sofa</a>, a sticky kitchen floor, and pet hair everywhere. It’s a common scene for many Dubai homeowners and renters, and it often leads to wasted weekends and endless to‑do lists.</p>
+<p>Finding a reliable home cleaning company Dubai that understands the pace of life here and delivers consistent results can feel like searching for a needle in a desert. In this guide, Madinat Al Haya walks you through the exact steps to evaluate services, compare pricing, and spot the red flags—so you can choose a partner that keeps your space spotless without compromising on safety, eco‑friendliness, or budget. By the end, you’ll have a clear roadmap to select a cleaning provider that fits your lifestyle and gives you back precious time.</p>
+<h2>Understanding Home Cleaning Costs in Dubai</h2>
+<p>When you hire a <strong>home cleaning company Dubai</strong> like Madinat Al Haya, the price you see on the invoice is usually built from three variables: the size of the property, the number of occupants, and the district in which the home is located. Understanding each factor helps you compare quotes and avoid surprises.</p>
+<h3>Price per square foot</h3>
+<p>Madanat Al Haya follows a transparent per‑square‑foot rate that reflects the amount of surface area the cleaners will cover. The baseline rates for typical residential cleaning are:</p>
+<table>
+<thead>
+<tr>
+<th>Property Size (sq ft)</th>
+<th>Base Rate (AED) per sq ft</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Up to 1,000</td>
+<td>0.75</td>
+</tr>
+<tr>
+<td>1,001 – 2,000</td>
+<td>0.70</td>
+</tr>
+<tr>
+<td>2,001 – 3,500</td>
+<td>0.65</td>
+</tr>
+<tr>
+<td>Over 3,500</td>
+<td>0.60</td>
+</tr>
+</tbody></table>
+
+<h3>Impact of household size</h3>
+<p>More occupants generally mean more dishes, laundry, and high‑traffic zones. Madinat Al Haya adjusts the labour component based on the number of residents:</p>
+<ul>
+<li><strong>1‑2 occupants</strong> – No extra charge (included in base rate).</li>
+<li><strong>3‑4 occupants</strong> – +10 % of the total labour cost.</li>
+<li><strong>5+ occupants</strong> – +20 % of the total labour cost.</li>
+</ul>
+<p>The extra percentage covers the additional time required to tidy bedrooms, handle extra waste, and <a href="https://servedubai.ae/services/villa-deep-cleaning">deep‑clean frequently used areas</a>. This calculation is separate from the per‑square‑foot rate, so the final price reflects both space and usage.</p>
+<h3>Neighborhood price variations</h3>
+<p>Dubai’s diverse districts influence travel time, parking availability, and local market rates. Madinat Al Haya applies a modest location factor that ranges from 0 % to 12 % of the subtotal (base rate + household‑size adjustment). Below is a quick guide:</p>
+<table>
+<thead>
+<tr>
+<th>District / Area</th>
+<th>Location Factor</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Dubai Marina, JLT, Downtown</td>
+<td>+8 %</td>
+</tr>
+<tr>
+<td>Business Bay, Al Barsha</td>
+<td>+5 %</td>
+</tr>
+<tr>
+<td>Deira, Al Qusais, Al Nahda</td>
+<td>+2 %</td>
+</tr>
+<tr>
+<td>Palm Jumeirah, Emirates Hills</td>
+<td>+12 %</td>
+</tr>
+<tr>
+<td>Suburban areas (e.g., Dubailand, Mirdif)</td>
+<td>0 %</td>
+</tr>
+</tbody></table>
+<p>These percentages are added after the first two calculations, ensuring the final quote mirrors real‑world logistics without hidden fees.</p>
+<h3>Sample cost calculator</h3>
+<p>Use the following step‑by‑step example to see how the numbers come together. Assume a 2,200 sq ft villa in <strong>Dubai Marina</strong> with four residents, requesting standard cleaning plus eco‑friendly products.</p>
+
+<p>The calculator shows why two homes of the same size can have different bills: occupancy and district matter just as much as square footage. Madinat Al Haya provides an online quote tool where you can plug in your exact figures for an instant, no‑obligation estimate.</p>
+<p>By breaking down the pricing matrix, you gain confidence that the quote you receive from a reputable <strong>home cleaning company Dubai</strong> is fair, transparent, and tailored to your specific situation.</p>
+<h2>Step‑by‑Step Checklist for Hiring the Right Company</h2>
+<p>Choosing a <strong>home cleaning company Dubai</strong> can feel overwhelming, especially when you want a service that matches your lifestyle, budget, and peace‑of‑mind standards. The checklist below walks you through each decision point, so you can print it, tick the boxes, and compare providers with confidence.</p>
+<h3>Define your cleaning needs</h3>
+<ul>
+<li><strong>Frequency</strong> – Do you need a weekly, bi‑weekly, or monthly visit? Consider whether you want a regular tidy‑up or a seasonal deep‑clean.</li>
+<li><strong>Scope of work</strong> – List the rooms and tasks: kitchen countertops, bathroom tiles, carpet shampoo, sofa upholstery, or villa‑wide deep cleaning. </li>
+<li><strong>Special requirements</strong> – Are you looking for <strong>eco‑friendly cleaning Dubai</strong> solutions, pet‑friendly products, or a team that can handle high‑rise apartment access?</li>
+<li><strong>Size of the property</strong> – Note the total square footage and number of bedrooms/bathrooms; this helps providers give accurate quotes.</li>
+</ul>
+<h3>Verify licensing and insurance</h3>
+<ul>
+<li><strong>Trade licence</strong> – All reputable firms operating in the UAE must hold a valid Dubai Economic Department (DED) licence. Ask to see a copy.</li>
+<li><strong>Dubai cleaning insurance</strong> – Confirm the company carries public liability insurance that covers accidental damage or injury on your premises. Ask for the policy number and coverage limits.</li>
+<li><strong>Health &amp; safety compliance</strong> – Inquire about their handling of chemicals and whether they follow the Dubai Municipality’s safety guidelines.</li>
+</ul>
+<h3>Check employee background procedures</h3>
+<ul>
+<li><strong>Recruitment standards</strong> – A trustworthy provider screens candidates with identity verification, background checks, and reference checks.</li>
+<li><strong>Training and certifications</strong> – Ask if cleaners receive training on <strong>eco‑friendly cleaning Dubai</strong> methods, handling of pet hair, and specialised equipment.</li>
+<li><strong>Uniforms and ID badges</strong> – Staff should wear company‑issued uniforms and visible ID cards during each visit.</li>
+<li><strong>Pet‑friendly cleaning UAE</strong> – If you have pets, ensure cleaners are comfortable around animals and use non‑toxic products.</li>
+</ul>
+<h3>Compare quotes and contracts</h3>
+<table>
+<thead>
+<tr>
+<th>Provider</th>
+<th>Quote (AED)</th>
+<th>Services Included</th>
+<th>Contract Length</th>
+<th>Cancellation Terms</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Madinat Al Haya</td>
+<td>850 per visit</td>
+<td>Kitchen, bathroom, living‑room, carpet spot‑clean</td>
+<td>12 months</td>
+<td>30‑day notice</td>
+<td>Eco‑friendly, fully insured</td>
+</tr>
+<tr>
+<td>Competitor A</td>
+<td>780 per visit</td>
+<td>Kitchen, bathroom, sofa cleaning</td>
+<td>6 months</td>
+<td>15‑day notice</td>
+<td>No insurance proof</td>
+</tr>
+<tr>
+<td>Competitor B</td>
+<td>900 per visit</td>
+<td>Full villa deep clean + carpet cleaning</td>
+<td>12 months</td>
+<td>30‑day notice</td>
+<td>Offers free first‑time deep cleaning</td>
+</tr>
+</tbody></table>
+<ul>
+<li><strong>Dubai home cleaning pricing</strong> can vary by neighbourhood. Compare quotes side‑by‑side and look for hidden fees such as travel surcharges or extra‑hour rates.</li>
+<li><strong>Contract clarity</strong> – Read the fine print. A clear contract will outline the cleaning checklist, frequency, payment schedule, and what happens if you need to reschedule.</li>
+<li><strong>Trial run</strong> – Some companies, including Madinat Al Haya, offer a one‑time trial at a reduced rate. Use it to gauge quality before signing a long‑term agreement.</li>
+</ul>
+<hr/>
+<h2>Printable Checklist</h2>
+<table>
+<thead>
+<tr>
+<th>✅</th>
+<th>Decision point</th>
+<th>Completed? (✓/✗)</th>
+<th>Comments</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>List exact cleaning tasks and frequency</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2</td>
+<td>Verify DED licence and request copy</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>3</td>
+<td>Confirm public liability <strong>Dubai cleaning insurance</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>4</td>
+<td>Ask for employee background check policy</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>5</td>
+<td>Ensure cleaners are trained for <strong>pet friendly cleaning UAE</strong></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>6</td>
+<td>Request detailed, itemised quote</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td>Compare at least three contracts side‑by‑side</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>8</td>
+<td>Check for eco‑friendly product usage</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>9</td>
+<td>Review cancellation and reschedule terms</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>10</td>
+<td>Schedule a trial cleaning session</td>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+<p>Print this table, bring it to your next consultation, and tick each box as you verify the details. A systematic approach removes guesswork and ensures you partner with a professional, premium service that respects your home and your peace of mind.</p>
+<hr/>
+<p>If you’re ready to experience a truly meticulous clean, explore our <strong><a href="/deep-cleaning">deep cleaning services</a></strong> for a comprehensive, one‑off refresh that complements any regular schedule you choose.</p>
+<h2>Insurance, Legal Compliance, and Safety Guarantees</h2>
+
+<h3>UAE labor law requirements</h3>
+<p>Every cleaning technician employed in the UAE must have a valid labor contract, a work permit (if applicable), and an Emirates ID. The law also mandates a minimum of 30 days’ paid annual leave and contributions to the General Pension and Social Security Authority. Ask the cleaning company to show you a compliance sheet that lists the number of staff on payroll, their contract status, and proof of pension contributions. This sheet reassures you that the team is legally hired and that you are not indirectly supporting undocumented labor.</p>
+<h3>COVID‑19 hygiene protocols</h3>
+<p>Since the pandemic, top‑tier cleaning firms have adopted a three‑step protocol:</p>
+<ol>
+<li><strong>Pre‑visit health screening</strong> – cleaners complete a digital questionnaire and temperature check before each job.</li>
+<li><strong>EPA‑approved disinfectants</strong> – products that are effective against SARS‑CoV‑2 and safe for common home surfaces are used.</li>
+<li><strong>Contact‑free service</strong> – cleaners wear disposable gloves and masks, and they place all used PPE in a sealed bag for removal after the job.</li>
+</ol>
+<p>Madinat Al Haya follows the Dubai Municipality’s "Safe Cleaning" guidelines, which require a minimum 15‑minute dwell time for disinfectants on high‑touch areas such as door handles, light switches, and remote controls. Request a copy of the cleaning checklist; it will show you exactly which products are used and the frequency of application.</p>
+<h3>Liability and damage policies</h3>
+<p>Even with insurance, you want clarity on what happens if a vase cracks or a carpet is stained. Madinat Al Haya offers a <strong>no‑questions‑asked replacement or repair guarantee</strong> for any item damaged during the service, provided the issue is reported within 24 hours. The policy outlines:</p>
+<ul>
+
+<li>The process for filing a claim – a simple online form, photo evidence, and a brief description.</li>
+<li>The turnaround time – most claims are settled within three business days.</li>
+</ul>
+<p>For larger properties, such as villas, the company can extend the liability cap upon request, which is why many homeowners opt for the <strong><a href="/villa-cleaning">villa cleaning packages</a></strong> that include higher coverage limits as part of the service bundle.</p>
+<h4>How to verify compliance</h4>
+<ol>
+<li><strong>Request documentation</strong> – insurance certificate, labor compliance sheet, and COVID‑19 protocol manual.</li>
+<li><strong>Check expiry dates</strong> – policies should be current; insurance typically renews annually.</li>
+<li><strong>Confirm registration</strong> – Madinat Al Haya is registered with the Dubai Economic Department (DED) under the cleaning services category.</li>
+<li><strong>Ask for references</strong> – satisfied clients can confirm that the promised guarantees were honoured.</li>
+</ol>
+<p>By confirming insurance limits, labor law adherence, pandemic‑era hygiene standards, and clear liability terms, you protect your home, your family, and your peace of mind while enjoying a spotless living space.</p>
+<h2>Eco‑Friendly and Pet‑Friendly Cleaning Options</h2>
+<h3>Green‑cleaning certifications in the UAE</h3>
+<p>Madinat Al Haya works only with cleaners who hold recognised green‑cleaning certifications. In the UAE the most respected are:</p>
+<ul>
+<li><strong>Estidama Pearl Rating</strong> – part of Dubai’s Sustainable City initiative, it confirms that cleaning practices minimise water and energy use.</li>
+<li><strong>Dubai Municipality Green Building Permit</strong> – shows that chemicals used meet the emirate’s strict environmental standards.</li>
+<li><strong>ISO 14001 Environmental Management</strong> – an international benchmark for systematic waste reduction and safe product handling.</li>
+</ul>
+<p>When a <strong>home cleaning company Dubai</strong> advertises any of these badges, you can be confident the service follows proven eco‑friendly protocols.</p>
+<h3>Pet‑safe cleaning products</h3>
+<p>Pets share the same living spaces, so the chemicals you choose must be harmless if inhaled or licked. Look for:</p>
+<ul>
+<li><strong>Plant‑based surfactants</strong> (coconut‑derived, biodegradable).</li>
+<li><strong>Enzyme cleaners</strong> that break down stains without harsh solvents.</li>
+<li><strong>Fragrance‑free options</strong> to avoid allergic reactions in cats and dogs.</li>
+</ul>
+<p>Madinat Al Haya uses a proprietary line of pet‑safe solutions that have been tested by veterinary specialists. The products are stored separately from standard chemicals to prevent cross‑contamination.</p>
+<h3>Benefits of eco‑cleaning</h3>
+<ul>
+<li><strong>Healthier indoor air</strong> – low‑VOC (volatile organic compound) formulas reduce respiratory irritation.</li>
+<li><strong>Safer for children and seniors</strong> – non‑toxic residues mean fewer worries about accidental contact.</li>
+<li><strong>Environmental impact</strong> – biodegradable agents break down quickly, protecting the Gulf’s marine life.</li>
+<li><strong>Long‑term cost savings</strong> – efficient, low‑water methods often lower <strong>Dubai home cleaning pricing</strong> compared with traditional, chemical‑heavy services.</li>
+</ul>
+<h3>Choosing the right green service</h3>
+<p>Finding a truly green provider requires a few simple checks:</p>
+<ol>
+<li><strong>Ask for certification copies</strong> – reputable companies will gladly show Estidama or ISO 14001 documentation.</li>
+<li><strong>Verify product lists</strong> – request a sheet of ingredients; look for terms like 'plant‑derived', 'biodegradable', and 'pet‑safe'.</li>
+<li><strong>Check insurance coverage</strong> – a <strong>Dubai cleaning insurance</strong> policy that includes chemical liability protects you if a product causes damage.</li>
+<li><strong>Confirm neighbourhood experience</strong> – Madinat Al Haya has served many <strong>Dubai cleaning service neighborhoods</strong>, from Jumeirah to Al Barsha, and understands the specific floor types and climate‑related dust challenges in each area.</li>
+<li><strong>Read reviews for pet‑friendly performance</strong> – homeowners often mention how calm their dogs remain when cleaners use quiet, non‑spray techniques.</li>
+</ol>
+<p>If you value both sustainability and the wellbeing of your furry friends, choose a <strong>home cleaning company Dubai</strong> that markets itself as <strong>pet friendly cleaning UAE</strong> and backs the claim with certifications, transparent product info, and solid insurance. Madinat Al Haya checks all those boxes while also offering specialised services such as <a href="/carpet-cleaning">carpet cleaning solutions</a> that use low‑foam, eco‑approved shampoos.</p>
+<p>By following these guidelines, you’ll enjoy a spotless home, a greener footprint, and peace of mind that your pets are safe throughout the cleaning process.</p>
+<h2>Digital Payments, Subscriptions, and Loyalty Programs</h2>
+<h3>Popular UAE e‑wallets and contactless payments</h3>
+<p>Madinat Al Haya accepts the payment methods most trusted by Dubai residents. The three global wallets—Apple Pay, Google Pay, and Samsung Pay—work seamlessly with our website and mobile app, allowing you to tap your phone at checkout. Locally, the following e‑wallets dominate the market:</p>
+<ul>
+<li><strong>Careem Pay</strong> – linked to Careem rides, often used for quick on‑the‑go transactions.</li>
+<li><strong>PayBy</strong> – a UAE‑focused solution that integrates directly with most Emirates banks.</li>
+<li><strong>Etisalat Payments</strong> – lets you fund your wallet from an Etisalat line of credit.</li>
+<li><strong>Emirates NBD Pay</strong> – a bank‑issued digital card that supports contactless POS.</li>
+</ul>
+<p>Credit and debit cards (Visa, Mastercard, and locally issued Gulf cards) remain the most common fallback. All transactions are processed through PCI‑DSS compliant gateways, ensuring your data stays encrypted from start to finish.</p>
+<h3>Online booking apps</h3>
+<p>Our dedicated booking app mirrors the full service menu you see on the website, but adds a few conveniences for the on‑the‑move homeowner:</p>
+<ol>
+<li><strong>Real‑time availability</strong> – view slots for the next 7 days and lock in a time that fits your schedule.</li>
+<li><strong>One‑click repeat orders</strong> – schedule weekly or bi‑weekly cleaning with a single tap.</li>
+<li><strong>Instant payment</strong> – choose any of the e‑wallets or saved cards; the amount is charged only after the crew checks out.</li>
+<li><strong>Push notifications</strong> – receive reminders, crew arrival alerts, and post‑service feedback requests.</li>
+</ol>
+<p>The app also stores a history of past services, making it easy to re‑order the same package or upgrade to a <a href="https://servedubai.ae/services/villa-deep-cleaning">deeper clean</a> without re‑entering details.</p>
+<h3>Subscription plans and discounts</h3>
+<p>For Dubai homeowners who prefer predictable budgeting, Madinat Al Haya offers tiered subscription plans. Each tier bundles a set number of visits per month and unlocks progressive discounts:</p>
+<table>
+<thead>
+<tr>
+<th>Tier</th>
+<th>Visits / month</th>
+<th>Discount on base price</th>
+<th>Loyalty perks</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>Bronze</strong></td>
+<td>1</td>
+<td>5 %</td>
+<td>Free eco‑friendly product upgrade</td>
+</tr>
+<tr>
+<td><strong>Silver</strong></td>
+<td>2</td>
+<td>10 %</td>
+<td>Priority booking window</td>
+</tr>
+<tr>
+<td><strong>Gold</strong></td>
+<td>4</td>
+<td>15 %</td>
+<td>Complimentary deep‑clean add‑on (see our <a href="/villa-cleaning">villa cleaning packages</a>)</td>
+</tr>
+<tr>
+<td><strong>Platinum</strong></td>
+<td>Unlimited</td>
+<td>20 %</td>
+<td>Annual free carpet cleaning session</td>
+</tr>
+</tbody></table>
+
+<h3>Managing payments and receipts</h3>
+<p>All payments are recorded in a personal dashboard accessible via the app or the website. From there you can:</p>
+<ul>
+<li><strong>Download PDF receipts</strong> for each service, useful for tax or rental‑agreement documentation.</li>
+<li><strong>View a monthly summary</strong> that breaks down spending by service type (e.g., kitchen cleaning, bathroom cleaning experts) and highlights any applied discounts.</li>
+<li><strong>Set up auto‑pay</strong> for subscription plans, ensuring your next invoice is settled the day before the crew arrives.</li>
+<li><strong>Request refunds or adjustments</strong> within 24 hours of service completion, with the support team handling disputes in line with Dubai home cleaning pricing standards.</li>
+</ul>
+<p>By embracing digital wallets, a streamlined booking app, flexible subscriptions, and transparent receipt management, Madinat Al Haya makes hiring a home cleaning company Dubai residents trust both effortless and rewarding.</p>
+<h2>Service Coverage Across Dubai Neighborhoods</h2>
+<h3>Jumeirah and Palm Jumeirah</h3>
+<p>Madinat Al Haya serves the upscale coastal districts of Jumeirah and Palm Jumeirah. Residents benefit from our <strong>premium home cleaning company Dubai</strong> standards, with crews familiar with high‑rise villas and beachfront apartments. Typical response time: <strong>30‑45 minutes</strong> from the moment a booking is confirmed.</p>
+<h3>Dubai Marina and Business Bay</h3>
+<p>The bustling Marina and Business Bay corridors receive same‑day service, even for after‑hours requests. Our teams navigate the high‑density tower blocks efficiently, delivering a thorough clean in <strong>35‑50 minutes</strong> on average. We also handle complex layouts often found in penthouse suites.</p>
+<h3>Al Barsha and Downtown</h3>
+<p>From family homes in Al Barsha to luxury apartments in Downtown, Madinat Al Haya covers a wide range of property types. Average response time here is <strong>40‑55 minutes</strong>, thanks to strategically placed dispatch hubs near these neighborhoods.</p>
+<h3>Coverage map and response times</h3>
+<p>Below is a quick reference table that summarises our coverage and typical response windows:</p>
+<table>
+<thead>
+<tr>
+<th>Neighborhood</th>
+<th>Typical Response Time</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Jumeirah / Palm Jumeirah</td>
+<td>30‑45 min</td>
+</tr>
+<tr>
+<td>Dubai Marina / Business Bay</td>
+<td>35‑50 min</td>
+</tr>
+<tr>
+<td>Al Barsha / Downtown</td>
+<td>40‑55 min</td>
+</tr>
+</tbody></table>
+<p><img alt="Madinat Al Haya service area map" src="https://example.com/map-placeholder.png"/></p>
+<p>The map illustrates our core service radius, extending to most residential zones across Dubai. If you live outside the highlighted area, contact us—our flexible scheduling often accommodates adjoining suburbs. Our real‑time tracking app lets you see the crew’s location as they approach your door.</p>
+<p><strong>Why neighbourhood coverage matters</strong><br/>Local knowledge allows us to adjust cleaning schedules around traffic patterns, peak delivery hours, and community regulations. It also means we can bring specialised equipment, such as our <strong>deep cleaning services</strong> for high‑traffic kitchens, without delay.</p>
+<p><strong>Pet‑friendly and eco‑conscious options</strong><br/>For families with pets, we offer a <strong>pet‑friendly cleaning UAE</strong> package that uses non‑toxic solutions, ensuring the safety of cats, dogs, and other companions. All eco‑friendly cleaning Dubai practices are applied uniformly across the covered neighborhoods.</p>
+<p>Choosing a home cleaning company Dubai that knows the city’s layout translates into faster arrival, more reliable appointments, and a consistently high standard of cleanliness—exactly what Madinat Al Haya delivers across every neighbourhood listed above.</p>
+<h2>Comparing Top Home Cleaning Companies in Dubai</h2>
+<p>When Dubai homeowners evaluate a <strong>home cleaning company dubai</strong> they usually compare four key dimensions: price, insurance, eco‑pet friendliness, and digital experience. The table below gives a quick side‑by‑side view of the most frequently requested providers in the market, including Madinat Al Haya.</p>
+
+<p>*Prices are indicative ranges for a standard 3‑bedroom apartment (≈150 sq ft). Exact quotes depend on size, frequency and specific service scope.</p>
+<h3>Pricing matrix overview</h3>
+<p>The price spread reflects two main drivers: the level of training invested in cleaners and the breadth of service guarantees. Madinat Al Haya positions itself in the mid‑range but adds value through a transparent pricing calculator on its app, which breaks down costs by square footage and optional add‑ons such as deep cleaning or carpet cleaning solutions.</p>
+
+<h3>Green and pet‑friendly features</h3>
+<p>Eco‑conscious residents look for certifications like Eco‑Seal or the use of biodegradable chemicals. Both Madinat Al Haya and BrightSpace advertise <strong>eco‑friendly cleaning Dubai</strong> solutions that are safe for pets, making them ideal for families with cats or dogs. Sparkle Clean can provide pet‑friendly products upon request, whereas Pristine Home treats it as a premium add‑on.</p>
+<h3>App booking and customer support</h3>
+<p>A seamless digital experience is now a deciding factor for many renters and villa owners. Madinat Al Haya leads with a fully integrated mobile app that lets users schedule, track, and pay for services in real time, plus a 24‑hour chat for instant support. BrightSpace follows with AI‑driven scheduling, while Sparkle Clean relies on WhatsApp and email, and Pristine Home still uses a basic online form and limited phone hours.</p>
+<p>For larger residences, such as villas, Madinat Al Haya also offers tailored <strong><a href="/villa-cleaning">villa cleaning packages</a></strong> that combine regular housekeeping with periodic deep‑cleaning tasks, ensuring consistent quality across Dubai’s diverse neighborhoods.</p>
+<h2>Final Tips and Downloadable Planning Tools</h2>
+<h3>Seasonal cleaning considerations</h3>
+<p>Dubai’s climate shifts dramatically from scorching summer heat to cooler winter evenings, and each season brings its own cleaning challenges. In the summer, dust and sand infiltrate homes more aggressively, so focus on high‑traffic entryways, window sills, and air‑conditioner filters. Winter rains can increase humidity, making bathroom tiles and grout prone to mold—schedule a thorough bathroom cleaning before the cooler months set in. Spring is the perfect time for a deep‑cleaning overhaul, tackling upholstery and carpets that have collected months of grime. Align these seasonal tasks with your calendar using the <strong>Dubai Home Cleaning Planner PDF</strong>, a free resource from Madinat Al Haya that helps you map out when to address each area.</p>
+<h3>How to use the Dubai Home Cleaning Planner PDF</h3>
+<ol>
+<li><strong>Download</strong> the planner from our website – a single click gives you a printable and editable PDF.</li>
+<li><strong>Mark your move‑in/move‑out dates</strong> or any special events (e.g., Ramadan gatherings) that demand extra sparkle.</li>
+<li><strong>Assign seasonal tasks</strong> to the appropriate month using the colour‑coded sections (e.g., blue for summer sand‑control, green for winter mold‑prevention).</li>
+<li><strong>Add service slots</strong> for your regular visits from a trusted <strong>home cleaning company dubai</strong> like Madinat Al Haya. The planner includes space to note the scope of each visit—whether it’s a routine tidy‑up or a comprehensive deep cleaning.</li>
+<li><strong>Review quarterly</strong> to adjust frequencies based on real‑world results. This simple habit keeps your home consistently fresh without over‑booking services.</li>
+</ol>
+<h3>Maintaining a clean home routine</h3>
+<p>A sustainable routine hinges on small, daily actions. Wipe kitchen countertops after each meal, use a handheld vacuum for pet hair before it settles, and spot‑clean spills immediately to prevent stains. Pair these habits with weekly checklist items—such as vacuuming high‑traffic rugs and sanitising bathroom fixtures—to reduce the workload during your professional visits. When you combine these micro‑tasks with the planner’s macro‑schedule, you’ll notice a smoother flow and less reliance on intensive deep cleans.</p>
+<h3>Getting the most value from your cleaning service</h3>
+<p>To maximise every Dirham spent, communicate clearly with your cleaning team. Share the planner’s monthly agenda, specify any <strong>eco‑friendly cleaning Dubai</strong> preferences, and flag pet‑friendly zones if you have furry companions. Request a brief walkthrough after the first visit to ensure all priority areas (like the living‑room sofa or the main entry carpet) meet your expectations—our <a href="/deep-cleaning">deep cleaning services</a> can be added on‑demand for those occasional intensive sessions. Finally, take advantage of Madinat Al Haya’s subscription packages: regular appointments often unlock discounted rates and priority scheduling, delivering consistent quality while keeping your budget in check.</p>
+18:["$","article",null,{"className":"aig","children":[["$","header",null,{"className":"aig-hero","children":[["$","div",null,{"className":"aig-hero-img","children":[["$","$L1b",null,{"src":"/images/blog/home-cleaning-company-dubai-featured.webp","alt":"Ultimate Guide to Choosing a Home Cleaning Company Dubai","fill":true,"priority":true,"unoptimized":true,"sizes":"100vw","style":{"objectFit":"cover"}}],["$","div",null,{"className":"aig-hero-scrim"}]]}],["$","div",null,{"className":"aig-hero-inner","children":[["$","nav",null,{"className":"aig-crumb","aria-label":"Breadcrumb","children":[["$","$L8",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L8",null,{"href":"/blog","children":"Blog"}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"cur","children":"Deep Guide"}]]}],["$","span",null,{"className":"aig-badge","children":[["$","span",null,{"className":"aig-badge-dot"}],"AI-Researched Deep Guide"]}],["$","h1",null,{"className":"aig-title","children":"Ultimate Guide to Choosing a Home Cleaning Company Dubai"}],["$","div",null,{"className":"aig-meta","children":[["$","span",null,{"children":"Madinat Al Haya"}],["$","span",null,{"className":"sep","children":"•"}],["$","span",null,{"children":"23 July 2026"}],["$","span",null,{"className":"sep","children":"•"}],["$","span",null,{"children":[24," min read"]}],["$","span",null,{"className":"aig-kw","children":["◆ ","home cleaning company dubai"]}]]}]]}]]}],["$","div",null,{"className":"aig-canvas","children":[["$","div",null,{"className":"aig-body","dangerouslySetInnerHTML":{"__html":"$1c"}}],"$L1d","$L1e","$L1f"]}]]}]
+19:["$","$L20",null,{}]
+21:T1c23,
+        .aig { --gold:#b8912f; --gold-lt:#c9a84c; --ink:#1a1510; --ink-2:#4a4030; --ink-3:#7a6f5c;
+          --cream:#fdfcf8; --panel:#f7f2e8; --line:rgba(26,21,16,0.09);
+          font-family:var(--font-work), sans-serif; background:var(--cream); }
+
+        /* Hero */
+        .aig-hero { position:relative; min-height:clamp(360px,52vh,540px); display:flex; align-items:flex-end; overflow:hidden; }
+        .aig-hero-img { position:absolute; inset:0; }
+        .aig-hero-scrim { position:absolute; inset:0; background:linear-gradient(180deg, rgba(12,9,6,0.35) 0%, rgba(12,9,6,0.25) 45%, rgba(12,9,6,0.88) 100%); }
+        .aig-hero-inner { position:relative; width:100%; max-width:900px; margin:0 auto; padding:0 24px 52px; }
+        .aig-crumb { display:flex; gap:8px; align-items:center; font-size:0.82rem; color:#e6dcc4; margin-bottom:16px; }
+        .aig-crumb a { color:#f0d27a; text-decoration:none; }
+        .aig-crumb .cur { color:#fff; }
+        .aig-badge { display:inline-flex; align-items:center; gap:8px; font-size:0.7rem; font-weight:700; letter-spacing:0.15em; text-transform:uppercase;
+          padding:7px 15px; border-radius:999px; color:#1a1510; background:linear-gradient(90deg,#f0d27a,#c9a84c); box-shadow:0 8px 24px -8px rgba(201,168,76,0.6); }
+        .aig-badge-dot { width:7px; height:7px; border-radius:50%; background:#1a1510; animation:aigpulse 1.8s infinite; }
+        @keyframes aigpulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+        .aig-title { font-family:var(--font-josefin), sans-serif; font-weight:700; color:#fff; line-height:1.12;
+          font-size:clamp(2rem,4.8vw,3.15rem); margin:16px 0 14px; text-shadow:0 2px 24px rgba(0,0,0,0.55); }
+        .aig-meta { display:flex; flex-wrap:wrap; align-items:center; gap:10px; font-size:0.9rem; color:#eadfca; }
+        .aig-meta .sep { color:#c9a84c; }
+        .aig-kw { margin-left:4px; color:#f0d27a; background:rgba(0,0,0,0.28); border:1px solid rgba(240,210,122,0.4);
+          padding:3px 13px; border-radius:999px; font-size:0.8rem; font-weight:600; }
+
+        /* Floating article card */
+        .aig-canvas { position:relative; max-width:760px; margin:-44px auto 64px; padding:clamp(28px,5vw,60px);
+          background:#fff; border-radius:22px; box-shadow:0 24px 70px -30px rgba(26,21,16,0.35), 0 2px 0 rgba(201,168,76,0.15);
+          border:1px solid var(--line); }
+
+        /* Body typography — high contrast on white */
+        .aig-body { font-size:1.14rem; line-height:1.85; color:var(--ink-2); }
+        .aig-body > :first-child { margin-top:0; }
+        .aig-body > p:first-of-type::first-letter { float:left; font-family:var(--font-josefin), sans-serif; font-weight:700;
+          font-size:3.5rem; line-height:0.82; padding:6px 12px 0 0; color:var(--gold); }
+        .aig-body h2 { font-family:var(--font-josefin), sans-serif; font-size:clamp(1.5rem,3vw,2rem); font-weight:700; color:var(--ink);
+          margin:2.6rem 0 1rem; padding-bottom:0.5rem; border-bottom:2px solid rgba(201,168,76,0.35); line-height:1.25; }
+        .aig-body h3 { font-family:var(--font-josefin), sans-serif; font-size:1.3rem; font-weight:700; color:var(--gold); margin:1.9rem 0 0.7rem; }
+        .aig-body p { margin:1.1rem 0; }
+        .aig-body strong { color:var(--ink); font-weight:700; }
+        .aig-body a { color:var(--gold); font-weight:600; text-decoration:none; border-bottom:1.5px solid rgba(184,145,47,0.35); }
+        .aig-body a:hover { border-bottom-color:var(--gold); }
+        .aig-body ul, .aig-body ol { margin:1.2rem 0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0.7rem; }
+        .aig-body ul li { position:relative; padding-left:30px; }
+        .aig-body ul li::before { content:''; position:absolute; left:0; top:0.5rem; width:9px; height:9px; border-radius:50%;
+          background:var(--gold); box-shadow:0 0 0 4px rgba(201,168,76,0.15); }
+        .aig-body ol { counter-reset:aig; }
+        .aig-body ol li { position:relative; padding-left:38px; counter-increment:aig; }
+        .aig-body ol li::before { content:counter(aig); position:absolute; left:0; top:0; width:26px; height:26px; border-radius:50%;
+          background:linear-gradient(135deg,#f0d27a,#c9a84c); color:#1a1510; font-size:0.82rem; font-weight:700;
+          display:flex; align-items:center; justify-content:center; }
+        .aig-body table { width:100%; border-collapse:collapse; margin:1.8rem 0; font-size:1rem;
+          border:1px solid rgba(201,168,76,0.3); border-radius:12px; overflow:hidden; }
+        .aig-body th { background:rgba(201,168,76,0.14); color:var(--ink); text-align:left; padding:13px 16px; font-weight:700;
+          font-family:var(--font-josefin), sans-serif; }
+        .aig-body td { padding:12px 16px; border-top:1px solid var(--line); color:var(--ink-2); }
+        .aig-body tr:nth-child(even) td { background:rgba(201,168,76,0.04); }
+        .aig-body blockquote { margin:1.7rem 0; padding:16px 22px; background:var(--panel);
+          border-left:4px solid var(--gold); border-radius:0 12px 12px 0; color:var(--ink); font-style:italic; }
+        .aig-body code { background:var(--panel); padding:2px 7px; border-radius:5px; font-size:0.9em; color:#8a6d1f; }
+
+        /* CTA */
+        .aig-cta { text-align:center; margin:3rem 0 2.5rem; padding:42px 28px; border-radius:18px;
+          background:linear-gradient(135deg,#1a1510 0%,#2d1f0a 55%,#3a2a05 100%); border:1px solid rgba(201,168,76,0.3); }
+        .aig-cta h2 { font-family:var(--font-josefin), sans-serif; font-size:1.75rem; font-weight:700; color:#fff; margin:0 0 8px; }
+        .aig-cta p { color:#d8ceba; margin:0 0 22px; }
+        .aig-cta-btns { display:flex; gap:14px; justify-content:center; flex-wrap:wrap; }
+        .aig-btn-wa { background:#25D366; color:#0a0e17; font-weight:700; font-size:1.02rem; padding:14px 30px; border-radius:999px; text-decoration:none; }
+        .aig-btn-call { border:2px solid #c9a84c; color:#f0d27a; font-weight:700; font-size:1.02rem; padding:12px 28px; border-radius:999px; text-decoration:none; }
+
+        /* FAQ */
+        .aig-faq { margin:2.5rem 0 0.5rem; }
+        .aig-faq-h { font-family:var(--font-josefin), sans-serif; font-size:1.65rem; font-weight:700; color:var(--ink); margin:0 0 1.1rem; }
+        .aig-faq-item { background:var(--cream); border:1px solid var(--line); border-radius:12px; margin-bottom:12px; overflow:hidden; }
+        .aig-faq-item summary { list-style:none; cursor:pointer; display:flex; justify-content:space-between; align-items:center; gap:14px;
+          padding:18px 22px; font-family:var(--font-josefin), sans-serif; font-size:1.06rem; font-weight:700; color:var(--ink); }
+        .aig-faq-item summary::-webkit-details-marker { display:none; }
+        .aig-faq-plus { color:var(--gold); font-size:1.5rem; font-weight:400; transition:transform 0.2s; flex-shrink:0; }
+        .aig-faq-item[open] .aig-faq-plus { transform:rotate(45deg); }
+        .aig-faq-item p { margin:0; padding:0 22px 20px; color:var(--ink-2); line-height:1.75; }
+
+        .aig-back { margin-top:1.75rem; padding-top:1.5rem; border-top:1px solid var(--line); }
+        .aig-back a { color:var(--gold); font-weight:700; text-decoration:none; }
+      1a:["$","style",null,{"children":"$21"}]
+1d:["$","div",null,{"className":"aig-cta","children":[["$","h2",null,{"children":"Get a Free Quote Today"}],["$","p",null,{"children":"Same-day professional service across Dubai & all UAE Emirates · Transparent pricing"}],["$","div",null,{"className":"aig-cta-btns","children":[["$","a",null,{"href":"https://wa.me/971551275545?text=Hi%20Madinat%20Alhaya%2C%20I%20need%20cleaning%20services.%20Please%20contact%20me%20with%20details%20and%20pricing.","target":"_blank","rel":"noopener noreferrer","className":"aig-btn-wa","children":"WhatsApp Now"}],["$","a",null,{"href":"tel:+971551275545","className":"aig-btn-call","children":["Call ","+971551275545"]}]]}]]}]
+1e:["$","section",null,{"className":"aig-faq","children":[["$","h2",null,{"className":"aig-faq-h","children":"Frequently Asked Questions"}],[["$","details","0",{"className":"aig-faq-item","open":true,"children":[["$","summary",null,{"children":["What does ‘deep cleaning’ include for high‑rise apartments in Dubai?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Deep cleaning for high‑rise apartments typically covers everything in a standard clean plus detailed work such as cleaning inside ovens and microwaves, wiping the interior of cabinets, scrubbing grout and tile joints, dusting vents and light fixtures, polishing glass surfaces, washing interior windows, and cleaning baseboards and skirting. It also includes thorough bathroom sanitation and floor‑to‑ceiling dust removal."}]]}],["$","details","1",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["How are cleaners vetted for cultural sensitivities and UAE labor law compliance?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Madinat Al Haya screens every cleaner with a multi‑step process: government‑issued ID and labor‑card verification, criminal background check, and reference validation. All staff receive a mandatory cultural‑sensitivity workshop covering local customs, dress code and language basics, plus training on UAE labor‑law rights and duties. Ongoing performance reviews ensure compliance throughout employment."}]]}],["$","details","2",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["Can I pay for cleaning services using Apple Pay or local e‑wallets?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Madinat Al Haya accepts a range of digital payments to suit Dubai residents. In addition to cash and major credit cards, Apple Pay and local e‑wallets such as Emirates Pay, Samsung Pay and Careem Pay are supported for online bookings. For the most up‑to‑date list, please check the payment page or contact the service desk."}]]}],["$","details","3",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["Are there any hidden fees for extra rooms or pet hair removal?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Madinat Al Haya is transparent about pricing. The quoted rate covers the rooms specified in the booking. Adding extra bedrooms, bathrooms or specialised pet‑hair removal is considered an additional service and will be priced before the job begins. There are no hidden surcharges; any extra work is discussed and approved in advance."}]]}],["$","details","4",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["What green‑cleaning certifications should I look for in a Dubai cleaning company?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"When evaluating eco‑friendly cleaning in Dubai, look for certifications such as ISO 14001 (environmental management), Green Seal, or the Dubai Municipality’s ‘Green Building’ label. Some companies also display the Safer Choice seal from the US EPA for low‑toxicity products. These credentials confirm that the provider follows recognised standards for sustainable cleaning."}]]}],["$","details","5",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["How does the COVID‑19 hygiene protocol differ between cleaning providers?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"COVID‑19 protocols vary by provider but reputable firms in Dubai follow the Dubai Health Authority’s guidelines: cleaners wear N95 masks, gloves and eye protection; high‑touch surfaces receive a minimum of 5‑minute dwell time with EPA‑approved disinfectants; and equipment is sanitized after each job. Some companies also offer post‑exposure reporting and contact‑less payment."}]]}],"$L22","$L23"]]}]
+1f:["$","div",null,{"className":"aig-back","children":["$","$L8",null,{"href":"/blog","children":"← Back to all articles"}]}]
+22:["$","details","6",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["Is there a discount for recurring weekly or monthly bookings?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Madinat Al Haya rewards regular customers. Clients who schedule weekly or monthly cleanings typically receive a discount ranging from 5 % to 10 % off the standard rate. The exact percentage depends on the frequency, service scope and contract length, so it’s best to request a customised quote for recurring bookings."}]]}]
+23:["$","details","7",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"The guarantee terms are outlined in the service agreement."}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+24:I[27201,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"IconMark"]
+f:null
+14:[["$","title","0",{"children":"Home Cleaning Company Dubai: Ultimate Guide to Choosing | Madinat Alhaya"}],["$","meta","1",{"name":"description","content":"Discover how to pick the best home cleaning company Dubai offers. Our guide reveals pricing tips, red‑flag alerts, and expert advice for a spotless home."}],["$","meta","2",{"name":"keywords","content":"cleaning services Dubai,cleaning company Dubai,cleaning services UAE,deep cleaning Dubai,professional cleaning services Dubai,best cleaning company in Dubai,cleaning services Abu Dhabi,cleaning services Sharjah,home cleaning services Dubai,villa deep cleaning Dubai,sofa cleaning Dubai,carpet cleaning Dubai,marble polishing Dubai,office cleaning Dubai,apartment cleaning Dubai,mattress cleaning Dubai,curtain cleaning Dubai,cleaning services near me Dubai,house cleaning Dubai,move in move out cleaning Dubai,same-day cleaning Dubai,cleaning services Ajman,cleaning services RAK,cleaning services Fujairah,cleaning services Umm Al Quwain,eco-friendly cleaning Dubai,best cleaning services UAE"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"name":"geo.region","content":"AE-DU"}],["$","meta","6",{"name":"geo.placename","content":"Dubai, United Arab Emirates"}],["$","meta","7",{"name":"geo.position","content":"25.2048;55.2708"}],["$","meta","8",{"name":"ICBM","content":"25.2048, 55.2708"}],["$","meta","9",{"name":"language","content":"en-AE"}],["$","meta","10",{"name":"content-language","content":"en-AE"}],["$","link","11",{"rel":"canonical","href":"https://servedubai.ae/blog/home-cleaning-company-dubai"}],["$","link","12",{"rel":"alternate","hrefLang":"en-AE","href":"https://servedubai.ae/blog/home-cleaning-company-dubai"}],["$","link","13",{"rel":"alternate","hrefLang":"x-default","href":"https://servedubai.ae/blog/home-cleaning-company-dubai"}],["$","meta","14",{"name":"google-site-verification","content":"kcRs3u_-iV5Ou0Op2OAvNBajnVhBwo3epUrUm0gEKCg"}],["$","meta","15",{"property":"og:title","content":"Home Cleaning Company Dubai: Ultimate Guide to Choosing | Madinat Alhaya"}],["$","meta","16",{"property":"og:description","content":"Discover how to pick the best home cleaning company Dubai offers. Our guide reveals pricing tips, red‑flag alerts, and expert advice for a spotless home."}],["$","meta","17",{"property":"og:url","content":"https://servedubai.ae/blog/home-cleaning-company-dubai"}],["$","meta","18",{"property":"og:site_name","content":"Madinat Alhaya Building Cleaning Services"}],["$","meta","19",{"property":"og:locale","content":"en_AE"}],["$","meta","20",{"property":"og:image","content":"https://servedubai.ae/images/blog/home-cleaning-company-dubai-featured.webp"}],["$","meta","21",{"property":"og:image:width","content":"1200"}],["$","meta","22",{"property":"og:image:height","content":"630"}],["$","meta","23",{"property":"og:image:alt","content":"Home Cleaning Company Dubai: Ultimate Guide to Choosing"}],["$","meta","24",{"property":"og:type","content":"website"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"Home Cleaning Company Dubai: Ultimate Guide to Choosing | Madinat Alhaya"}],["$","meta","27",{"name":"twitter:description","content":"Discover how to pick the best home cleaning company Dubai offers. Our guide reveals pricing tips, red‑flag alerts, and expert advice for a spotless home."}],["$","meta","28",{"name":"twitter:image","content":"https://servedubai.ae/images/blog/home-cleaning-company-dubai-featured.webp"}],["$","link","29",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L24","30",{}]]

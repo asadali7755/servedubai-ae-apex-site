@@ -1,0 +1,373 @@
+1:"$Sreact.fragment"
+2:I[79520,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],""]
+4:I[94717,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"RequestCallProvider"]
+5:I[70119,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+6:I[39756,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+7:I[37457,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+8:I[22016,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js","/_next/static/chunks/04wh-_u4rta40.js"],""]
+9:I[56691,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+a:I[82358,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+b:I[28757,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+d:I[97367,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"MetadataBoundary"]
+15:I[68027,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default",1]
+:HL["/_next/static/chunks/0mybi6gdz5h-4.css","style"]
+:HL["/_next/static/chunks/0p~kwtc~o8e55.css","style"]
+:HL["/_next/static/media/769a6a68ede5e496-s.p.0hb-53.60tg-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ddd198311ba7843-s.p.11f_0f-25f9yg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:["$","iframe",null,{"src":"https://www.googletagmanager.com/ns.html?id=GTM-5MXKNSJ4","height":"0","width":"0","style":{"display":"none","visibility":"hidden"}}]
+0:{"P":null,"c":["","blog","sofa-carpet-cleaning-uae-price-list"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","sofa-carpet-cleaning-uae-price-list","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0mybi6gdz5h-4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0p~kwtc~o8e55.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/03xd~cau~.qq_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11hqrz-.rh7v8.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/182fs1hn0ahor.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/07h-lbp6rv0rd.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0xbcw5owglc7e.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-AE","className":"josefin_sans_665e52fe-module__ouybQq__variable work_sans_cb649862-module__XHLQia__variable","data-theme":"light","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","$L2",null,{"id":"gtm-script","strategy":"afterInteractive","dangerouslySetInnerHTML":{"__html":"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5MXKNSJ4');"}}],["$","body",null,{"className":"min-h-screen flex flex-col theme-body","children":[["$","noscript",null,{"children":"$3"}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[60vh] text-center px-4","children":[["$","h1",null,{"className":"text-3xl font-bold text-white mb-3","style":{"fontFamily":"var(--font-josefin)"},"children":"Page Not Found"}],["$","p",null,{"className":"text-gray-400 mb-8 max-w-md","children":"We couldn't find the page you were looking for. It may have been moved or doesn't exist."}],["$","$L8",null,{"href":"/","className":"px-6 py-3 rounded-lg font-semibold text-white transition-opacity hover:opacity-90","style":{"background":"#c9a84c","color":"#151515","minHeight":"44px","display":"inline-flex","alignItems":"center"},"children":"Return to Homepage"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/04wh-_u4rta40.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0mybi6gdz5h-4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0p~kwtc~o8e55.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"8BKQeoeWrac48pno6nxkZ"}
+16:[]
+10:"$W16"
+17:T10bb,[{"url":"https://servedubai.ae/blog/sofa-carpet-cleaning-uae-price-list","@type":"Article","author":{"url":"https://servedubai.ae","name":"Madinat Al Haya","@type":"Organization"},"@context":"https://schema.org","headline":"Sofa Carpet Cleaning Services UAE Price List: 2025/2026 Guide","publisher":{"url":"https://servedubai.ae","name":"Madinat Al Haya","@type":"Organization"},"wordCount":4215,"description":"Find the exact sofa carpet cleaning services UAE price list for 2025/2026. Get transparent pricing for professional upholstery and carpet cleaning across Dubai","dateModified":"2026-09-08T08:03:49.307Z","mainEntityOfPage":{"@id":"https://servedubai.ae/blog/sofa-carpet-cleaning-uae-price-list","@type":"WebPage"}},{"@type":"BreadcrumbList","@context":"https://schema.org","itemListElement":[{"item":"https://servedubai.ae","name":"Home","@type":"ListItem","position":1},{"item":"https://servedubai.ae/blog","name":"Blog","@type":"ListItem","position":2},{"item":"https://servedubai.ae/blog/sofa-carpet-cleaning-uae-price-list","name":"Sofa Carpet Cleaning Services UAE Price List: 2025/2026 Guide","@type":"ListItem","position":3}]},{"@type":"FAQPage","@context":"https://schema.org","mainEntity":[{"name":"How much does it cost to clean a three‑seat sofa in Dubai?","@type":"Question","acceptedAnswer":{"text":"Pricing for a three‑seat sofa in Dubai depends on fabric type, condition and any stains. We provide a transparent, itemised quote after a brief onsite assessment, ensuring no hidden fees. Every job is quoted individually — send a photo on WhatsApp and we confirm the price before booking.","@type":"Answer"}},{"name":"Are there any extra fees for cleaning carpets in high‑rise apartments?","@type":"Question","acceptedAnswer":{"text":"Cleaning carpets in high‑rise apartments may involve additional logistics, such as elevator reservations or stair‑case access, which can add a modest surcharge. We aim to keep costs transparent. Every job is quoted individually — send a photo on WhatsApp and we confirm the price before booking.","@type":"Answer"}},{"name":"Can I get a discount if I book sofa and carpet cleaning together?","@type":"Question","acceptedAnswer":{"text":"Yes, we reward combined bookings with a discount. When you schedule both sofa and carpet cleaning on the same day, Madinat Al Haya offers typically 10 % off the combined total. The exact percentage may vary with the size of the items and any promotional campaigns, so request a detailed quote to confirm.","@type":"Answer"}},{"name":"What does “pet odor removal” include and how is it priced?","@type":"Question","acceptedAnswer":{"text":"Pet odor removal covers a deep‑cleaning cycle that pretreats affected areas, applies an enzymatic solution, and uses a hot‑water extraction to neutralise odours embedded in fibres. The service also includes a post‑treatment inspection. Pricing is based on the size and level of contamination; we recommend contacting Madinat Al Haya for a personalised quote.","@type":"Answer"}},{"name":"How do you handle delicate fabrics like silk or antique Persian rugs?","@type":"Question","acceptedAnswer":{"text":"For silk upholstery and antique Persian rugs we employ a low‑temperature, low‑moisture cleaning method to protect the fibres. Our technicians perform a spot test first, then use specially formulated, pH‑balanced solutions and gentle hand‑brushing. We also advise clients on post‑clean care, and any extensive restoration is quoted separately.","@type":"Answer"}},{"name":"How often should I schedule professional cleaning for my sofa and carpet?","@type":"Question","acceptedAnswer":{"text":"Routine professional cleaning extends the life of both sofas and carpets. For high‑traffic households, we suggest sofa cleaning every 6‑8 months and carpet cleaning at least once a year. Homes with pets or heavy footfall may benefit from quarterly visits. Adjust the schedule based on visible wear, stains or odour buildup.","@type":"Answer"}}]},{"url":"https://servedubai.ae","name":"Madinat Al Haya","@type":"LocalBusiness","address":{"@type":"PostalAddress","addressCountry":"AE"},"@context":"https://schema.org","telephone":"+971 55 127 5545","areaServed":{"name":"AE","@type":"Country"},"priceRange":"$$"}]c:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18","$L19","$L1a"]
+1b:I[5500,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js","/_next/static/chunks/04wh-_u4rta40.js"],"Image"]
+20:I[45686,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js","/_next/static/chunks/04wh-_u4rta40.js"],"default"]
+1c:T610a,<p>Keeping your home or office in the UAE immaculate often means tackling the challenge of clean upholstery and flooring. Over time, sofas and carpets accumulate dust, stains, and allergens, impacting both aesthetics and air quality. Many residents and property managers face a common dilemma: how to find dependable, professional cleaning services without hidden costs. Understanding the investment required for a truly refreshed living space is crucial.</p>
+<p>At Madinat Al Haya, we recognize this need for clarity. This comprehensive guide is designed to demystify pricing for professional sofa and carpet cleaning services across the UAE. We will break down what influences costs, explore various service options, and provide a transparent overview of the <strong>sofa carpet cleaning services UAE price list</strong> for 2025/2026. Our goal is to empower you with the knowledge to make informed decisions and ensure your furnishings receive the premium care they deserve, extending their life and enhancing your environment.</p>
+<h2>Overview of Sofa &amp; Carpet Cleaning Prices in the UAE 2025/2026</h2>
+<p>Navigating the options for professional cleaning can be challenging, especially when seeking clear costs. This comprehensive guide from Madinat Al Haya aims to provide a transparent look at the sofa carpet cleaning services UAE price list for 2025/2026, offering valuable insights for homeowners, renters, and property managers across the Emirates. Our goal is to ensure you can make informed decisions about maintaining a clean and healthy living environment.</p>
+<h3>Why Transparent Pricing Matters</h3>
+<p>At Madinat Al Haya, we believe that understanding the cost of services upfront is crucial for our clients. Hidden fees or unclear pricing structures can lead to frustration. That's why we are committed to providing transparent and competitive rates for all our services, including sofa cleaning price Dubai and carpet cleaning cost Abu Dhabi. Our detailed price guide helps you budget effectively and choose the right cleaning solutions without any surprises.</p>
+<h3>Current Year Price Guide</h3>
+<p>This guide offers a realistic overview of the expected investment for professional sofa and carpet cleaning services throughout the UAE for the 2025/2026 period. While specific costs can vary based on fabric type, size, condition, and location, Madinat Al Haya provides tailored quotes to meet individual needs. This general</p>
+<h2>How Prices Vary by Emirate – Dubai, Abu Dhabi, Sharjah &amp; More</h2>
+<p>Understanding the regional nuances in pricing is key when planning your <a href="https://servedubai.ae/blog/sofa-cleaning-dubai-how-much">sofa and carpet cleaning services</a> in the UAE. While Madinat Al Haya maintains a consistent standard of excellence, the sofa carpet cleaning services UAE price list can fluctuate based on the specific emirate due to various economic factors and market dynamics.</p>
+<h3>Dubai Pricing Landscape</h3>
+<p>Dubai, as a global hub, generally sees higher operational costs for businesses, which can translate into the sofa cleaning price Dubai homeowners experience. The demand for premium, efficient, and timely services is also exceptionally high. While prices might be on the upper end of the spectrum compared to other emirates, they often reflect the advanced equipment, skilled technicians, and rigorous standards offered by professional services like Madinat Al Haya. Clients here often prioritize convenience and flawless results for their valuable furnishings.</p>
+<h3>Abu Dhabi &amp; Northern Emirates</h3>
+<p>In Abu Dhabi, the carpet cleaning cost Abu Dhabi residents face can be quite similar to Dubai for high-end, specialized services. However, for standard offerings, you might find slightly more competitive rates. As we look towards the Northern Emirates—Ras Al Khaimah, Fujairah, and Umm Al Quwain—the pricing generally becomes more accessible. Lower overheads for businesses in these regions often allow for more budget-friendly options, making professional cleaning solutions available to a broader range of residents without compromising quality.</p>
+<h3>Sharjah &amp; Ajman Differences</h3>
+<p>Sharjah and Ajman frequently offer some of the most competitive rates for professional sofa and carpet cleaning services in the UAE. This is largely due to lower commercial rents and operational expenses compared to Dubai and Abu Dhabi. Many residents in these emirates seek excellent value for money, and cleaning companies respond by structuring their sofa carpet cleaning services UAE price list to be highly attractive. Madinat Al Haya ensures that even with these regional price differences, the quality of service remains consistently high across all emirates.</p>
+<h3>Factors Influencing Regional Prices</h3>
+<p>Several elements contribute to these price variations. Key among them are the cost of doing business, including commercial rents, utility expenses, and staff wages, which are typically higher in Dubai and Abu Dhabi. The intensity of market competition also plays a role; a saturated market might drive prices down, while a demand for specialized, premium services can elevate them. Logistics and transportation costs for teams and equipment to various areas can also subtly influence the final quote for your cleaning package.</p>
+<h2>Detailed Price Breakdown by Sofa Type, Size &amp; Condition</h2>
+<p>Understanding the cost of maintaining your home's furnishings is key to effective budgeting. At Madinat Al Haya, we believe in transparent pricing tailored to the specific needs of your furniture. While the overall <strong>sofa carpet cleaning services uae price list</strong> provides a general overview, the actual cost for sofa cleaning depends heavily on its size, type, and current condition. For a comprehensive understanding of what goes into maintaining your furniture, explore our <a href="/services/sofa-cleaning">professional sofa cleaning services</a>.</p>
+<h3>Small Sofas &amp; Loveseats</h3>
+<p>Small sofas and loveseats, typically seating one to two individuals, require less time and specialized products compared to larger pieces. These are ideal for quick refreshes or addressing minor spills. Our base rates for these compact pieces ensure your cozy seating remains pristine.</p>
+<table>
+<thead>
+<tr>
+<th align="left">Service/Item</th>
+<th align="left">Description</th>
+<th align="left">Estimated Price (AED)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Base Cleaning</strong></td>
+<td align="left">Standard wet or dry cleaning</td>
+<td align="left">150 - 250</td>
+</tr>
+<tr>
+<td align="left"><strong>Stain Treatment</strong></td>
+<td align="left">Targeted treatment for specific spots</td>
+<td align="left">50 - 80</td>
+</tr>
+<tr>
+<td align="left"><strong>Deodorizing</strong></td>
+<td align="left">Eliminates light odors, refreshes fabric</td>
+<td align="left">40 - 70</td>
+</tr>
+</tbody></table>
+<h3>Medium Three-Seat Sofas</h3>
+<p>Standard three-seat sofas are common in many UAE homes and apartments. They represent a balance between size and cleaning complexity. Our pricing for medium sofas reflects the increased surface area and material required for a thorough deep clean.</p>
+<table>
+<thead>
+<tr>
+<th align="left">Service/Item</th>
+<th align="left">Description</th>
+<th align="left">Estimated Price (AED)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Base Cleaning</strong></td>
+<td align="left">Standard wet or dry cleaning</td>
+<td align="left">250 - 350</td>
+</tr>
+<tr>
+<td align="left"><strong>Stain Treatment</strong></td>
+<td align="left">Targeted treatment for specific spots</td>
+<td align="left">70 - 120</td>
+</tr>
+<tr>
+<td align="left"><strong>Deodorizing</strong></td>
+<td align="left">Eliminates light to moderate odors</td>
+<td align="left">60 - 90</td>
+</tr>
+</tbody></table>
+<h3>Large Sectionals &amp; Recliners</h3>
+<p>Large sectional sofas and recliners often feature multiple modules, intricate designs, and significant surface areas. Their cleaning requires more time, specialized techniques, and often a modular approach to ensure every part is <a href="https://servedubai.ae/services/sofa-cleaning">meticulously cleaned</a>. Our sectional sofa cleaning rates are carefully calculated to cover the enhanced effort and resources.</p>
+<table>
+<thead>
+<tr>
+<th align="left">Service/Item</th>
+<th align="left">Description</th>
+<th align="left">Estimated Price (AED)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left"><strong>Base Cleaning</strong></td>
+<td align="left">Standard wet or dry cleaning (per module/seat)</td>
+<td align="left">100 - 200 (per module)</td>
+</tr>
+<tr>
+<td align="left"><strong>Large Sectional</strong></td>
+<td align="left">4-5 seat sectional, U-shaped, or L-shaped</td>
+<td align="left">400 - 750</td>
+</tr>
+<tr>
+<td align="left"><strong>Recliner</strong></td>
+<td align="left">Individual recliner chair</td>
+<td align="left">180 - 280</td>
+</tr>
+<tr>
+<td align="left"><strong>Stain Treatment</strong></td>
+<td align="left">Targeted treatment for specific spots</td>
+<td align="left">80 - 150</td>
+</tr>
+<tr>
+<td align="left"><strong>Deodorizing</strong></td>
+<td align="left">Eliminates moderate to strong odors</td>
+<td align="left">70 - 120</td>
+</tr>
+</tbody></table>
+<h3>Condition &amp; Fabric Premiums</h3>
+<p>The final cost can also be influenced by the sofa's current condition and fabric type. Heavily soiled sofas, or those with difficult-to-remove stains, require more intensive treatment and may incur a premium. Delicate fabrics like silk, velvet, or linen demand specialized dry-cleaning methods and gentle handling to prevent damage, hence a higher price.</p>
+<p>For pet owners, addressing animal odors and dander is a common concern. Our dedicated pet odor removal sofa price reflects the use of enzyme-based cleaners and extensive deodorizing processes necessary to neutralize stubborn pet smells and remove pet hair effectively. Madinat Al Haya provides a detailed quote after assessing your sofa's specific needs, ensuring transparency and no hidden costs.</p>
+<h2>Carpet Cleaning Costs by Material, Size &amp; Stain Severity</h2>
+<p>Understanding the factors that influence carpet cleaning costs is essential for budgeting your <strong>sofa carpet cleaning services UAE price list</strong>. The material of your carpet, its size, and the severity of any stains all play significant roles in the final quotation. Madinat Al Haya provides transparent pricing, ensuring you know exactly what to expect for our expert services across the UAE.</p>
+<h3>Synthetic &amp; Nylon Carpets</h3>
+<p>Most <a href="https://servedubai.ae/services/carpet-cleaning">modern carpets</a> in UAE homes and offices are crafted from durable synthetic fibers like nylon, polypropylene, and polyester. These materials are generally robust, stain-resistant, and relatively straightforward to clean. Their resilience often means a more economical cleaning process.</p>
+
+<h3>Wool &amp; Persian Rugs</h3>
+<p>Wool and precious Persian rugs demand a significantly more delicate and specialized approach. These natural fibers are prone to shrinking, color bleeding, and damage if not handled with expert care. Madinat Al Haya employs specialized solutions and techniques, including professional dry carpet cleaning methods, to preserve their intricate patterns and natural beauty.</p>
+
+<h3>Area Rugs vs. Wall-to-Wall Carpets</h3>
+<p>The configuration of your carpet also affects pricing. <strong>Area rug cleaning UAE</strong> services offer different considerations compared to wall-to-wall carpeting.</p>
+<ul>
+<li><strong>Area Rugs:</strong> These can often be removed and cleaned off-site at our specialized facility, allowing for a more thorough process and controlled drying environment. Alternatively, smaller rugs can be cleaned on-site. Prices are typically quoted per rug or per square meter, often aligning with material-specific rates.</li>
+<li><strong>Wall-to-Wall Carpets:</strong> Cleaning these requires on-site service, involving equipment setup, furniture movement, and careful attention to room dimensions. While the per-square-meter rate might sometimes be slightly lower for larger areas due to efficiency, the overall project cost can be substantial due to the sheer volume. Our teams are adept at navigating these challenges to deliver <a href="/services/carpet-cleaning">expert carpet cleaning solutions</a> with minimal disruption.</li>
+</ul>
+<h3>Stain Severity &amp; Moisture Levels</h3>
+<p>Beyond material and size, the condition of your carpet or rug – specifically the presence of stubborn stains or excessive moisture – can introduce additional charges. Standard cleaning covers general dirt and light marks, but certain issues require targeted intervention:</p>
+<ul>
+<li><strong>Deep-Set Stains:</strong> Pet accidents, red wine, coffee, oil, or ink stains often require specific stain removal treatments that go beyond standard cleaning. These intensive treatments are priced based on the type, size, and age of the stain, typically incurring an additional <strong>20-50% surcharge</strong> on the affected area or a fixed fee per stain. Our specialists utilize advanced enzymatic cleaners and extraction methods to effectively neutralize and remove these persistent marks.</li>
+<li><strong>Pet Odor Removal:</strong> For pervasive pet odors, especially those that have soaked into the carpet padding, a dedicated odor neutralization process is essential. This specialized service, akin to our pet odor removal options for sofas, carries an additional charge, ensuring your carpets are not just clean but truly fresh.</li>
+<li><strong>Excessive Moisture:</strong> Carpets that have suffered from water damage or leaks may require initial water extraction and rapid drying services before deep cleaning can commence. This preparatory work is quoted separately to prevent mold growth and further damage.</li>
+</ul>
+<h2>Bundle Packages: Combined Sofa &amp; Carpet Cleaning Savings</h2>
+<p>Madinat Al Haya knows that most UAE households need both sofa and carpet care at the same time. By bundling the two, you not only simplify scheduling but also unlock measurable savings. Below you’ll find the <strong>sofa carpet cleaning services uae price list</strong> broken down for separate versus bundled options, plus the extra value each package brings.</p>
+<h3>Standard Sofa + Carpet Package</h3>
+<ul>
+<li><strong>What’s included</strong>: One‑hour professional sofa cleaning (up to 3‑seat) + standard carpet cleaning for up to 30 m².</li>
+<li><strong>Ideal for</strong>: Small apartments, new renters, or property managers handling turnover.</li>
+
+<li><strong>Benefits</strong>: Same premium cleaning agents, quick‑dry technology, and a single technician visit.</li>
+</ul>
+<h3>Premium Protection Package</h3>
+<ul>
+<li><strong>What’s included</strong>: Deep‑clean sofa treatment with stain‑guard, plus carpet shampoo with anti‑soil coating (up to 50 m²).</li>
+<li><strong>Ideal for</strong>: Families with pets, high‑traffic homes, or villa owners seeking long‑term protection.</li>
+
+<li><strong>Added value</strong>: Includes a complimentary pet odor removal sofa price upgrade and a 6‑month re‑clean voucher.</li>
+</ul>
+<h3>Seasonal Discount Offers</h3>
+<table>
+<thead>
+<tr>
+<th>Season</th>
+<th>Bundle</th>
+<th>Discount</th>
+<th>Extra Perk</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Summer (June‑Aug)</td>
+<td>Standard</td>
+<td>15% off</td>
+<td>Free carpet deodorising spray</td>
+</tr>
+<tr>
+<td>Ramadan (Apr‑May)</td>
+<td>Premium</td>
+<td>20% off</td>
+<td>Complimentary sofa fabric protector</td>
+</tr>
+<tr>
+<td>Winter (Dec‑Feb)</td>
+<td>Both</td>
+<td>25% off</td>
+<td>Priority booking for next year</td>
+</tr>
+</tbody></table>
+
+<h3>How Savings Are Calculated</h3>
+<ol>
+<li><strong>Base rates</strong> are taken from the latest <strong>sofa carpet cleaning services uae price list</strong> for individual jobs.</li>
+<li><strong>Bundle discount</strong> is a flat percentage (15‑25%) depending on package tier and seasonal promotion.</li>
+<li><strong>Tax &amp; VAT</strong> (5 %) is calculated after the discount, ensuring the final amount is transparent.</li>
+<li><strong>Additional add‑ons</strong> (e.g., pet odor removal sofa price, dry carpet cleaning price UAE) are quoted separately and are not part of the bundle discount unless explicitly stated.</li>
+</ol>
+<p>Choosing a bundle not only reduces the overall bill but also aligns the cleaning schedule, so you avoid the inconvenience of multiple appointments. For a deeper dive into each service, explore our <a href="/services/sofa-cleaning">professional sofa cleaning services</a> and <a href="/services/carpet-cleaning">expert carpet cleaning solutions</a>.</p>
+<h2>Add‑On Services &amp; Their Pricing (Pet Odor, Stain Treatment, Protection)</h2>
+<h3>Pet Odor &amp; Hair Removal</h3>
+<p>UAE homes often host pets, and the desert climate can amplify odors when fur absorbs dust and humidity. Madinat Al Haya uses an enzymatic cleanser that breaks down odor‑causing molecules without harming fabric. The service also includes a thorough vacuum with HEPA‑rated filters to lift embedded pet hair.</p>
+
+<h3>Specialized Stain Treatment (Sand, Humidity, Wine)</h3>
+<p>Sand from beach outings, humidity‑induced mildew, and occasional wine spills are common challenges in Dubai and Abu Dhabi homes. Madinat Al Haya trains technicians to identify stain type and apply the appropriate solvent or poultice.</p>
+
+<h3>Fabric &amp; Carpet Protection Coatings</h3>
+<p>A protective layer extends the life of sofas and rugs by repelling spills and reducing wear from foot traffic. In the UAE, UV exposure can fade fabrics faster, making a coating especially valuable.</p>
+
+<h3>Quick‑Dry vs. Steam Options</h3>
+<p>Clients often ask whether to opt for a rapid‑dry method or a traditional steam clean. Quick‑dry uses low‑moisture extraction, ideal for busy households that cannot tolerate damp furniture for more than an hour. Steam provides deeper penetration, ideal for heavy‑soil situations.</p>
+<ul>
+<li><strong>Quick‑dry</strong> – No extra charge; included in all standard packages.</li>
+
+</ul>
+<p>By selecting the right add‑ons, <a href="https://servedubai.ae/blog/home-cleaning-company-dubai">homeowners and property managers</a> can tailor Madinat Al Haya’s service to the unique demands of life in the UAE, keeping interiors fresh, protected, and ready for the next guest or tenant.</p>
+<h2>Interpreting Quotes &amp; Hidden Costs – What to Watch For</h2>
+<h3>Base Rate vs. Per‑Meter/Seat Charges</h3>
+<p>When Madinat Al Haya provides a quote, the first number you will see is the <strong>base rate</strong> – a fixed fee that covers the technician’s time, equipment, and standard cleaning chemicals. This amount is usually applied to any sofa or carpet, regardless of size. </p>
+<p>If your item exceeds the typical dimensions (for example, a sectional sofa longer than 3 m or a large area rug over 5 m²), the quote will add a <strong>per‑meter or per‑seat charge</strong>. The per‑meter rate is transparent and is calculated from the exact length or number of seats you provide. Always ask the provider to show the calculation so you can verify that the extra charge matches the actual size of your furniture or rug.</p>
+<h3>Travel &amp; Emirate Surcharges</h3>
+<p>UAE‑wide service means technicians often travel between emirates. Most reputable companies, including Madinat Al Haya, include a <strong>standard travel fee</strong> for locations within Dubai’s metropolitan area but apply an <strong>additional surcharge</strong> for trips to Abu Dhabi, Sharjah, or the more remote northern emirates. This fee typically covers fuel, time, and any required permits. </p>
+
+<h3>Additional Visits &amp; Emergency Fees</h3>
+<p>Complex stains, pet odors, or heavily soiled upholstery may need <strong>more than one visit</strong>. Some providers quote a single‑visit price and then add an “additional visit fee” if the job is not completed. Look for language such as <em>“subject to additional visits if required”</em> and ask how many visits are included in the quoted price.</p>
+<p>Emergency or same‑day service is convenient but usually carries a <strong>premium fee</strong> of 25‑40 % over the standard rate. If you need urgent cleaning, request a separate emergency quote rather than assuming the standard price applies.</p>
+<h3>How to Request a Transparent Quote</h3>
+<ol>
+<li><strong>Provide exact measurements</strong> – length, width, and seat count for sofas; square meters for rugs.</li>
+<li><strong>Describe condition</strong> – mention stains, pet odor, or previous cleaning attempts.</li>
+<li><strong>Ask for a breakdown</strong> – request a line‑item list that separates base rate, per‑meter charges, travel surcharge, and any optional add‑ons.</li>
+<li><strong>Confirm coverage</strong> – verify whether the quote includes all labor, chemicals, and protective treatments.</li>
+<li><strong>Get it in writing</strong> – a PDF or email quote protects both parties.</li>
+</ol>
+<p>By following these steps, you can compare the <strong>sofa carpet cleaning services UAE price list</strong> with confidence and choose a provider that delivers premium results without hidden fees. For a reliable baseline, explore Madinat Al Haya’s <a href="/services/sofa-cleaning">professional sofa cleaning services</a> and see how their transparent pricing aligns with your budget.</p>
+<h2>Getting an Accurate Quote – Information to Provide</h2>
+<p>When you reach out to <strong>Madinat Al Haya</strong> for <a href="https://servedubai.ae/blog/deep-cleaning-dubai-fee-guide">sofa carpet cleaning services</a> UAE price list, the clarity of the details you share determines how precise your quote will be. Follow these simple steps to ensure you receive a personalized estimate that reflects the true scope of work.</p>
+<h3>Measurements, Material &amp; Condition Details</h3>
+<ol>
+<li><strong>Measure each piece</strong> – Use a tape measure to note length, width, and height (for sofas) or the square footage (for carpets). Round to the nearest centimeter for consistency.</li>
+<li><strong>Identify the material</strong> – Is the upholstery leather, microfiber, velvet, or a synthetic blend? For carpets, specify if it’s wool, nylon, polypropylene, or a natural fibre.</li>
+<li><strong>Assess condition</strong> – Mention any visible stains, pet hair, odor, or wear. Note if the sofa is a sectional with multiple sections or if the carpet has high‑traffic zones.</li>
+<li><strong>Take photos</strong> – Clear images of problem spots (e.g., a coffee spill on a sofa or a pet‑odor area on a rug) help our technicians plan the right treatment.</li>
+</ol>
+<h3>Using Our Online Quote Tool</h3>
+<ul>
+<li>Visit the <strong>Madinat Al Haya</strong> website and click the <em>Get a Quote</em> button.</li>
+<li>Fill in the form with the measurements, material type, and condition notes collected above.</li>
+<li>Upload the photos you captured; the system uses them to fine‑tune the estimate.</li>
+<li>Review the instant preview of your quote, which breaks down labor, cleaning agents, and any add‑on services such as pet odor removal sofa price.</li>
+<li>If everything looks correct, confirm the request and a specialist will contact you within 24 hours.</li>
+</ul>
+<h3>Phone Consultation Tips</h3>
+<ul>
+<li><strong>Have your notes ready</strong> – Keep the measurement sheet and photos at hand.</li>
+<li><strong>State your priorities</strong> – Whether you need fast turnaround, deep stain removal, or a dry carpet cleaning price UAE comparison, tell the agent early.</li>
+<li><strong>Ask about bundles</strong> – Mention any interest in combined sofa &amp; carpet cleaning packages; they often provide the best value.</li>
+<li><strong>Confirm the timeline</strong> – Inquire about the earliest available slot and any seasonal promotions.</li>
+</ul>
+<h3>When to Book for Best Value</h3>
+<ul>
+<li><strong>Off‑peak periods</strong> – Mid‑week appointments (Tuesday‑Thursday) usually enjoy lower rates.</li>
+<li><strong>Seasonal offers</strong> – Look for end‑of‑year or Ramadan specials on our website.</li>
+<li><strong>Bundle multiple services</strong> – Pair sofa cleaning price Dubai with a carpet cleaning cost Abu Dhabi service for a discounted rate.</li>
+<li><strong>Plan ahead</strong> – Booking at least a week in advance gives us time to allocate the right equipment and ensures you lock in the quoted price.</li>
+</ul>
+<p>Providing thorough, accurate information speeds up the quoting process and eliminates surprise fees, giving you confidence in the sofa carpet cleaning services UAE price list you receive.</p>
+18:["$","article",null,{"className":"aig","children":[["$","header",null,{"className":"aig-hero","children":[["$","div",null,{"className":"aig-hero-img","children":[["$","$L1b",null,{"src":"/images/blog/sofa-carpet-cleaning-uae-price-list-featured.webp","alt":"Sofa Carpet Cleaning Services UAE Price List: 2025/2026 Guide","fill":true,"priority":true,"unoptimized":true,"sizes":"100vw","style":{"objectFit":"cover"}}],["$","div",null,{"className":"aig-hero-scrim"}]]}],["$","div",null,{"className":"aig-hero-inner","children":[["$","nav",null,{"className":"aig-crumb","aria-label":"Breadcrumb","children":[["$","$L8",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L8",null,{"href":"/blog","children":"Blog"}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"cur","children":"Deep Guide"}]]}],["$","span",null,{"className":"aig-badge","children":[["$","span",null,{"className":"aig-badge-dot"}],"AI-Researched Deep Guide"]}],["$","h1",null,{"className":"aig-title","children":"Sofa Carpet Cleaning Services UAE Price List: 2025/2026 Guide"}],["$","div",null,{"className":"aig-meta","children":[["$","span",null,{"children":"Madinat Al Haya"}],["$","span",null,{"className":"sep","children":"•"}],["$","span",null,{"children":"9 September 2026"}],["$","span",null,{"className":"sep","children":"•"}],["$","span",null,{"children":[21," min read"]}],["$","span",null,{"className":"aig-kw","children":["◆ ","sofa carpet cleaning services uae price list"]}]]}]]}]]}],["$","div",null,{"className":"aig-canvas","children":[["$","div",null,{"className":"aig-body","dangerouslySetInnerHTML":{"__html":"$1c"}}],"$L1d","$L1e","$L1f"]}]]}]
+19:["$","$L20",null,{}]
+21:T1c23,
+        .aig { --gold:#b8912f; --gold-lt:#c9a84c; --ink:#1a1510; --ink-2:#4a4030; --ink-3:#7a6f5c;
+          --cream:#fdfcf8; --panel:#f7f2e8; --line:rgba(26,21,16,0.09);
+          font-family:var(--font-work), sans-serif; background:var(--cream); }
+
+        /* Hero */
+        .aig-hero { position:relative; min-height:clamp(360px,52vh,540px); display:flex; align-items:flex-end; overflow:hidden; }
+        .aig-hero-img { position:absolute; inset:0; }
+        .aig-hero-scrim { position:absolute; inset:0; background:linear-gradient(180deg, rgba(12,9,6,0.35) 0%, rgba(12,9,6,0.25) 45%, rgba(12,9,6,0.88) 100%); }
+        .aig-hero-inner { position:relative; width:100%; max-width:900px; margin:0 auto; padding:0 24px 52px; }
+        .aig-crumb { display:flex; gap:8px; align-items:center; font-size:0.82rem; color:#e6dcc4; margin-bottom:16px; }
+        .aig-crumb a { color:#f0d27a; text-decoration:none; }
+        .aig-crumb .cur { color:#fff; }
+        .aig-badge { display:inline-flex; align-items:center; gap:8px; font-size:0.7rem; font-weight:700; letter-spacing:0.15em; text-transform:uppercase;
+          padding:7px 15px; border-radius:999px; color:#1a1510; background:linear-gradient(90deg,#f0d27a,#c9a84c); box-shadow:0 8px 24px -8px rgba(201,168,76,0.6); }
+        .aig-badge-dot { width:7px; height:7px; border-radius:50%; background:#1a1510; animation:aigpulse 1.8s infinite; }
+        @keyframes aigpulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+        .aig-title { font-family:var(--font-josefin), sans-serif; font-weight:700; color:#fff; line-height:1.12;
+          font-size:clamp(2rem,4.8vw,3.15rem); margin:16px 0 14px; text-shadow:0 2px 24px rgba(0,0,0,0.55); }
+        .aig-meta { display:flex; flex-wrap:wrap; align-items:center; gap:10px; font-size:0.9rem; color:#eadfca; }
+        .aig-meta .sep { color:#c9a84c; }
+        .aig-kw { margin-left:4px; color:#f0d27a; background:rgba(0,0,0,0.28); border:1px solid rgba(240,210,122,0.4);
+          padding:3px 13px; border-radius:999px; font-size:0.8rem; font-weight:600; }
+
+        /* Floating article card */
+        .aig-canvas { position:relative; max-width:760px; margin:-44px auto 64px; padding:clamp(28px,5vw,60px);
+          background:#fff; border-radius:22px; box-shadow:0 24px 70px -30px rgba(26,21,16,0.35), 0 2px 0 rgba(201,168,76,0.15);
+          border:1px solid var(--line); }
+
+        /* Body typography — high contrast on white */
+        .aig-body { font-size:1.14rem; line-height:1.85; color:var(--ink-2); }
+        .aig-body > :first-child { margin-top:0; }
+        .aig-body > p:first-of-type::first-letter { float:left; font-family:var(--font-josefin), sans-serif; font-weight:700;
+          font-size:3.5rem; line-height:0.82; padding:6px 12px 0 0; color:var(--gold); }
+        .aig-body h2 { font-family:var(--font-josefin), sans-serif; font-size:clamp(1.5rem,3vw,2rem); font-weight:700; color:var(--ink);
+          margin:2.6rem 0 1rem; padding-bottom:0.5rem; border-bottom:2px solid rgba(201,168,76,0.35); line-height:1.25; }
+        .aig-body h3 { font-family:var(--font-josefin), sans-serif; font-size:1.3rem; font-weight:700; color:var(--gold); margin:1.9rem 0 0.7rem; }
+        .aig-body p { margin:1.1rem 0; }
+        .aig-body strong { color:var(--ink); font-weight:700; }
+        .aig-body a { color:var(--gold); font-weight:600; text-decoration:none; border-bottom:1.5px solid rgba(184,145,47,0.35); }
+        .aig-body a:hover { border-bottom-color:var(--gold); }
+        .aig-body ul, .aig-body ol { margin:1.2rem 0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0.7rem; }
+        .aig-body ul li { position:relative; padding-left:30px; }
+        .aig-body ul li::before { content:''; position:absolute; left:0; top:0.5rem; width:9px; height:9px; border-radius:50%;
+          background:var(--gold); box-shadow:0 0 0 4px rgba(201,168,76,0.15); }
+        .aig-body ol { counter-reset:aig; }
+        .aig-body ol li { position:relative; padding-left:38px; counter-increment:aig; }
+        .aig-body ol li::before { content:counter(aig); position:absolute; left:0; top:0; width:26px; height:26px; border-radius:50%;
+          background:linear-gradient(135deg,#f0d27a,#c9a84c); color:#1a1510; font-size:0.82rem; font-weight:700;
+          display:flex; align-items:center; justify-content:center; }
+        .aig-body table { width:100%; border-collapse:collapse; margin:1.8rem 0; font-size:1rem;
+          border:1px solid rgba(201,168,76,0.3); border-radius:12px; overflow:hidden; }
+        .aig-body th { background:rgba(201,168,76,0.14); color:var(--ink); text-align:left; padding:13px 16px; font-weight:700;
+          font-family:var(--font-josefin), sans-serif; }
+        .aig-body td { padding:12px 16px; border-top:1px solid var(--line); color:var(--ink-2); }
+        .aig-body tr:nth-child(even) td { background:rgba(201,168,76,0.04); }
+        .aig-body blockquote { margin:1.7rem 0; padding:16px 22px; background:var(--panel);
+          border-left:4px solid var(--gold); border-radius:0 12px 12px 0; color:var(--ink); font-style:italic; }
+        .aig-body code { background:var(--panel); padding:2px 7px; border-radius:5px; font-size:0.9em; color:#8a6d1f; }
+
+        /* CTA */
+        .aig-cta { text-align:center; margin:3rem 0 2.5rem; padding:42px 28px; border-radius:18px;
+          background:linear-gradient(135deg,#1a1510 0%,#2d1f0a 55%,#3a2a05 100%); border:1px solid rgba(201,168,76,0.3); }
+        .aig-cta h2 { font-family:var(--font-josefin), sans-serif; font-size:1.75rem; font-weight:700; color:#fff; margin:0 0 8px; }
+        .aig-cta p { color:#d8ceba; margin:0 0 22px; }
+        .aig-cta-btns { display:flex; gap:14px; justify-content:center; flex-wrap:wrap; }
+        .aig-btn-wa { background:#25D366; color:#0a0e17; font-weight:700; font-size:1.02rem; padding:14px 30px; border-radius:999px; text-decoration:none; }
+        .aig-btn-call { border:2px solid #c9a84c; color:#f0d27a; font-weight:700; font-size:1.02rem; padding:12px 28px; border-radius:999px; text-decoration:none; }
+
+        /* FAQ */
+        .aig-faq { margin:2.5rem 0 0.5rem; }
+        .aig-faq-h { font-family:var(--font-josefin), sans-serif; font-size:1.65rem; font-weight:700; color:var(--ink); margin:0 0 1.1rem; }
+        .aig-faq-item { background:var(--cream); border:1px solid var(--line); border-radius:12px; margin-bottom:12px; overflow:hidden; }
+        .aig-faq-item summary { list-style:none; cursor:pointer; display:flex; justify-content:space-between; align-items:center; gap:14px;
+          padding:18px 22px; font-family:var(--font-josefin), sans-serif; font-size:1.06rem; font-weight:700; color:var(--ink); }
+        .aig-faq-item summary::-webkit-details-marker { display:none; }
+        .aig-faq-plus { color:var(--gold); font-size:1.5rem; font-weight:400; transition:transform 0.2s; flex-shrink:0; }
+        .aig-faq-item[open] .aig-faq-plus { transform:rotate(45deg); }
+        .aig-faq-item p { margin:0; padding:0 22px 20px; color:var(--ink-2); line-height:1.75; }
+
+        .aig-back { margin-top:1.75rem; padding-top:1.5rem; border-top:1px solid var(--line); }
+        .aig-back a { color:var(--gold); font-weight:700; text-decoration:none; }
+      1a:["$","style",null,{"children":"$21"}]
+1d:["$","div",null,{"className":"aig-cta","children":[["$","h2",null,{"children":"Get a Free Quote Today"}],["$","p",null,{"children":"Same-day professional service across Dubai & all UAE Emirates · Transparent pricing"}],["$","div",null,{"className":"aig-cta-btns","children":[["$","a",null,{"href":"https://wa.me/971551275545?text=Hi%20Madinat%20Alhaya%2C%20I%20need%20cleaning%20services.%20Please%20contact%20me%20with%20details%20and%20pricing.","target":"_blank","rel":"noopener noreferrer","className":"aig-btn-wa","children":"WhatsApp Now"}],["$","a",null,{"href":"tel:+971551275545","className":"aig-btn-call","children":["Call ","+971551275545"]}]]}]]}]
+1e:["$","section",null,{"className":"aig-faq","children":[["$","h2",null,{"className":"aig-faq-h","children":"Frequently Asked Questions"}],[["$","details","0",{"className":"aig-faq-item","open":true,"children":[["$","summary",null,{"children":["How much does it cost to clean a three‑seat sofa in Dubai?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Pricing for a three‑seat sofa in Dubai depends on fabric type, condition and any stains. We provide a transparent, itemised quote after a brief onsite assessment, ensuring no hidden fees. Every job is quoted individually — send a photo on WhatsApp and we confirm the price before booking."}]]}],["$","details","1",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["Are there any extra fees for cleaning carpets in high‑rise apartments?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Cleaning carpets in high‑rise apartments may involve additional logistics, such as elevator reservations or stair‑case access, which can add a modest surcharge. We aim to keep costs transparent. Every job is quoted individually — send a photo on WhatsApp and we confirm the price before booking."}]]}],["$","details","2",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["Can I get a discount if I book sofa and carpet cleaning together?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Yes, we reward combined bookings with a discount. When you schedule both sofa and carpet cleaning on the same day, Madinat Al Haya offers typically 10 % off the combined total. The exact percentage may vary with the size of the items and any promotional campaigns, so request a detailed quote to confirm."}]]}],["$","details","3",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["What does “pet odor removal” include and how is it priced?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Pet odor removal covers a deep‑cleaning cycle that pretreats affected areas, applies an enzymatic solution, and uses a hot‑water extraction to neutralise odours embedded in fibres. The service also includes a post‑treatment inspection. Pricing is based on the size and level of contamination; we recommend contacting Madinat Al Haya for a personalised quote."}]]}],["$","details","4",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["How do you handle delicate fabrics like silk or antique Persian rugs?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"For silk upholstery and antique Persian rugs we employ a low‑temperature, low‑moisture cleaning method to protect the fibres. Our technicians perform a spot test first, then use specially formulated, pH‑balanced solutions and gentle hand‑brushing. We also advise clients on post‑clean care, and any extensive restoration is quoted separately."}]]}],["$","details","5",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["How often should I schedule professional cleaning for my sofa and carpet?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Routine professional cleaning extends the life of both sofas and carpets. For high‑traffic households, we suggest sofa cleaning every 6‑8 months and carpet cleaning at least once a year. Homes with pets or heavy footfall may benefit from quarterly visits. Adjust the schedule based on visible wear, stains or odour buildup."}]]}]]]}]
+1f:["$","div",null,{"className":"aig-back","children":["$","$L8",null,{"href":"/blog","children":"← Back to all articles"}]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:null
+14:[["$","title","0",{"children":"Sofa Carpet Cleaning UAE: 2025 Price List Guide | Madinat Alhaya"}],["$","meta","1",{"name":"description","content":"Find the exact sofa carpet cleaning services UAE price list for 2025/2026. Get transparent pricing for professional upholstery and carpet cleaning across Dubai"}],["$","meta","2",{"name":"keywords","content":"cleaning services Dubai,cleaning company Dubai,cleaning services UAE,deep cleaning Dubai,professional cleaning services Dubai,best cleaning company in Dubai,cleaning services Abu Dhabi,cleaning services Sharjah,home cleaning services Dubai,villa deep cleaning Dubai,sofa cleaning Dubai,carpet cleaning Dubai,marble polishing Dubai,office cleaning Dubai,apartment cleaning Dubai,mattress cleaning Dubai,curtain cleaning Dubai,cleaning services near me Dubai,house cleaning Dubai,move in move out cleaning Dubai,same-day cleaning Dubai,cleaning services Ajman,cleaning services RAK,cleaning services Fujairah,cleaning services Umm Al Quwain,eco-friendly cleaning Dubai,best cleaning services UAE"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"name":"geo.region","content":"AE-DU"}],["$","meta","6",{"name":"geo.placename","content":"Dubai, United Arab Emirates"}],["$","meta","7",{"name":"geo.position","content":"25.2048;55.2708"}],["$","meta","8",{"name":"ICBM","content":"25.2048, 55.2708"}],["$","meta","9",{"name":"language","content":"en-AE"}],["$","meta","10",{"name":"content-language","content":"en-AE"}],["$","link","11",{"rel":"canonical","href":"https://servedubai.ae/blog/sofa-carpet-cleaning-uae-price-list"}],["$","link","12",{"rel":"alternate","hrefLang":"en-AE","href":"https://servedubai.ae/blog/sofa-carpet-cleaning-uae-price-list"}],["$","link","13",{"rel":"alternate","hrefLang":"x-default","href":"https://servedubai.ae/blog/sofa-carpet-cleaning-uae-price-list"}],["$","meta","14",{"name":"google-site-verification","content":"kcRs3u_-iV5Ou0Op2OAvNBajnVhBwo3epUrUm0gEKCg"}],["$","meta","15",{"property":"og:title","content":"Sofa Carpet Cleaning UAE: 2025 Price List Guide | Madinat Alhaya"}],["$","meta","16",{"property":"og:description","content":"Find the exact sofa carpet cleaning services UAE price list for 2025/2026. Get transparent pricing for professional upholstery and carpet cleaning across Dubai"}],["$","meta","17",{"property":"og:url","content":"https://servedubai.ae/blog/sofa-carpet-cleaning-uae-price-list"}],["$","meta","18",{"property":"og:site_name","content":"Madinat Alhaya Building Cleaning Services"}],["$","meta","19",{"property":"og:locale","content":"en_AE"}],["$","meta","20",{"property":"og:image","content":"https://servedubai.ae/images/blog/sofa-carpet-cleaning-uae-price-list-featured.webp"}],["$","meta","21",{"property":"og:image:width","content":"1200"}],["$","meta","22",{"property":"og:image:height","content":"630"}],["$","meta","23",{"property":"og:image:alt","content":"Sofa Carpet Cleaning UAE: 2025 Price List Guide"}],["$","meta","24",{"property":"og:type","content":"website"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"Sofa Carpet Cleaning UAE: 2025 Price List Guide | Madinat Alhaya"}],["$","meta","27",{"name":"twitter:description","content":"Find the exact sofa carpet cleaning services UAE price list for 2025/2026. Get transparent pricing for professional upholstery and carpet cleaning across Dubai"}],["$","meta","28",{"name":"twitter:image","content":"https://servedubai.ae/images/blog/sofa-carpet-cleaning-uae-price-list-featured.webp"}],["$","link","29",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],"$L22"]
+23:I[27201,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"IconMark"]
+22:["$","$L23","30",{}]

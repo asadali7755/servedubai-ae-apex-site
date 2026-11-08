@@ -1,0 +1,8 @@
+:HL["/_next/static/chunks/0mybi6gdz5h-4.css","style"]
+:HL["/_next/static/chunks/0p~kwtc~o8e55.css","style"]
+:HL["/_next/static/media/10c4daebbfaa2ca9-s.p.15.5umyi~u9ui.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/769a6a68ede5e496-s.p.0hb-53.60tg-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ddd198311ba7843-s.p.11f_0f-25f9yg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/chunks/0gzy9nmlx3rer.css","style"]
+:HL["/_next/static/chunks/0lw.0t84s07b5.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"emirate","param":{"type":"d","key":"umm-al-quwain","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"city","param":{"type":"d","key":"falaj-al-mualla","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"8BKQeoeWrac48pno6nxkZ"}

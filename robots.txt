@@ -1,0 +1,23 @@
+User-Agent: *
+Allow: /
+
+User-Agent: GPTBot
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+User-Agent: ClaudeBot
+User-Agent: anthropic-ai
+User-Agent: Claude-Web
+User-Agent: Claude-User
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: Google-Extended
+User-Agent: Applebot-Extended
+User-Agent: Amazonbot
+User-Agent: CCBot
+User-Agent: cohere-ai
+User-Agent: DuckAssistBot
+User-Agent: Meta-ExternalAgent
+User-Agent: YouBot
+Allow: /
+
+Sitemap: https://servedubai.ae/sitemap.xml

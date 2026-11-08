@@ -1,0 +1,286 @@
+1:"$Sreact.fragment"
+2:I[79520,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],""]
+4:I[94717,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"RequestCallProvider"]
+5:I[70119,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+6:I[39756,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+7:I[37457,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+8:I[22016,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js","/_next/static/chunks/04wh-_u4rta40.js"],""]
+9:I[56691,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+a:I[82358,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+b:I[28757,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default"]
+d:I[97367,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"OutletBoundary"]
+e:"$Sreact.suspense"
+11:I[97367,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"ViewportBoundary"]
+13:I[97367,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"MetadataBoundary"]
+15:I[68027,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"default",1]
+:HL["/_next/static/chunks/0mybi6gdz5h-4.css","style"]
+:HL["/_next/static/chunks/0p~kwtc~o8e55.css","style"]
+:HL["/_next/static/media/769a6a68ede5e496-s.p.0hb-53.60tg-m.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/7ddd198311ba7843-s.p.11f_0f-25f9yg.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:["$","iframe",null,{"src":"https://www.googletagmanager.com/ns.html?id=GTM-5MXKNSJ4","height":"0","width":"0","style":{"display":"none","visibility":"hidden"}}]
+0:{"P":null,"c":["","blog","marble-floor-polishing-dubai-guide"],"q":"","i":false,"f":[[["",{"children":["blog",{"children":[["slug","marble-floor-polishing-dubai-guide","d",null],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",16],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0mybi6gdz5h-4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0p~kwtc~o8e55.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/03xd~cau~.qq_.js","async":true,"nonce":"$undefined"}],["$","script","script-1",{"src":"/_next/static/chunks/11hqrz-.rh7v8.js","async":true,"nonce":"$undefined"}],["$","script","script-2",{"src":"/_next/static/chunks/182fs1hn0ahor.js","async":true,"nonce":"$undefined"}],["$","script","script-3",{"src":"/_next/static/chunks/07h-lbp6rv0rd.js","async":true,"nonce":"$undefined"}],["$","script","script-4",{"src":"/_next/static/chunks/0xbcw5owglc7e.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en-AE","className":"josefin_sans_665e52fe-module__ouybQq__variable work_sans_cb649862-module__XHLQia__variable","data-theme":"light","suppressHydrationWarning":true,"children":[["$","head",null,{}],["$","$L2",null,{"id":"gtm-script","strategy":"afterInteractive","dangerouslySetInnerHTML":{"__html":"(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-5MXKNSJ4');"}}],["$","body",null,{"className":"min-h-screen flex flex-col theme-body","children":[["$","noscript",null,{"children":"$3"}],["$","$L4",null,{"children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"flex flex-col items-center justify-center min-h-[60vh] text-center px-4","children":[["$","h1",null,{"className":"text-3xl font-bold text-white mb-3","style":{"fontFamily":"var(--font-josefin)"},"children":"Page Not Found"}],["$","p",null,{"className":"text-gray-400 mb-8 max-w-md","children":"We couldn't find the page you were looking for. It may have been moved or doesn't exist."}],["$","$L8",null,{"href":"/","className":"px-6 py-3 rounded-lg font-semibold text-white transition-opacity hover:opacity-90","style":{"background":"#c9a84c","color":"#151515","minHeight":"44px","display":"inline-flex","alignItems":"center"},"children":"Return to Homepage"}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$L9",null,{}],["$","$La",null,{}],["$","$Lb",null,{}]]}]]}]]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L7",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/04wh-_u4rta40.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],{},null,false,null]},null,false,"$@10"]},null,false,"$@10"]},null,false,null],["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","div",null,{"hidden":true,"children":["$","$L13",null,{"children":["$","$e",null,{"name":"Next.Metadata","children":"$L14"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$15",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/0mybi6gdz5h-4.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/0p~kwtc~o8e55.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"h":null,"s":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"8BKQeoeWrac48pno6nxkZ"}
+16:[]
+10:"$W16"
+17:T12da,[{"url":"https://servedubai.ae/blog/marble-floor-polishing-dubai-guide","@type":"Article","author":{"url":"https://servedubai.ae","name":"Madinat Al Haya","@type":"Organization"},"@context":"https://schema.org","headline":"Marble Floor Polishing Near Me in Dubai: The Definitive Guide","publisher":{"url":"https://servedubai.ae","name":"Madinat Al Haya","@type":"Organization"},"wordCount":3038,"description":"Restore your marble floors’ shine with expert polishing in Dubai. Fast, reliable, and tailored to UAE’s climate. Book now!","dateModified":"2026-09-03T08:02:23.128Z","mainEntityOfPage":{"@id":"https://servedubai.ae/blog/marble-floor-polishing-dubai-guide","@type":"WebPage"}},{"@type":"BreadcrumbList","@context":"https://schema.org","itemListElement":[{"item":"https://servedubai.ae","name":"Home","@type":"ListItem","position":1},{"item":"https://servedubai.ae/blog","name":"Blog","@type":"ListItem","position":2},{"item":"https://servedubai.ae/blog/marble-floor-polishing-dubai-guide","name":"Marble Floor Polishing Near Me in Dubai: The Definitive Guide","@type":"ListItem","position":3}]},{"@type":"FAQPage","@context":"https://schema.org","mainEntity":[{"name":"How quickly can I book a marble polishing service 'near me' in Dubai?","@type":"Question","acceptedAnswer":{"text":"You can usually schedule a marble polishing service within 24‑48 hours after confirming availability, and even faster for urgent requests. Our online portal and dedicated hotline let you pick a convenient date, and we’ll dispatch a team to your Dubai address on the agreed day. Contact us for exact timing.","@type":"Answer"}},{"name":"What documentation or permits are required for marble polishing in residential/commercial buildings in Dubai?","@type":"Question","acceptedAnswer":{"text":"For residential projects no special permits are required, but you must provide proof of ownership or tenancy to the service team. Commercial properties often need a building‑management approval and, if work is performed in common areas, a copy of the facility’s maintenance plan. Supplying these documents speeds up scheduling.","@type":"Answer"}},{"name":"Is professional marble polishing safe for all types of marble found in UAE properties?","@type":"Question","acceptedAnswer":{"text":"Professional marble polishing in Dubai is safe for the most common varieties found locally—such as Carrara, Calacatta, Arabian limestone, and locally quarried marble—because technicians use pH‑neutral chemicals and calibrated grinding pads. Extremely porous or historic stones may need a pre‑assessment, and we’ll recommend the appropriate method before starting.","@type":"Answer"}},{"name":"How long does the marble polishing process typically take for a standard villa or apartment in Dubai?","@type":"Question","acceptedAnswer":{"text":"A typical villa with 150–200 m² of marble flooring takes about 2‑3 days from surface preparation to final polish, while a smaller apartment of 80–100 m² can be completed in 1‑2 days. Time may vary with the floor’s condition, number of rooms, and any required repairs.","@type":"Answer"}},{"name":"Do I need to vacate my premises during the marble polishing service?","@type":"Question","acceptedAnswer":{"text":"You do not need to completely vacate the property, but we ask occupants to stay clear of the work zones for safety and to prevent dust accumulation on furniture. In high‑traffic areas we may schedule a short temporary relocation during grinding, then resume normal use once the polish has cured.","@type":"Answer"}},{"name":"What are the typical payment methods accepted by professional marble polishing companies in Dubai?","@type":"Question","acceptedAnswer":{"text":"Most professional marble polishing companies in Dubai accept cash, major credit cards (Visa, MasterCard), and digital payments such as Emirates NBD’s e‑wallet or Apple Pay. For larger commercial contracts we also offer bank transfers and post‑project invoicing with net‑30 terms, after a signed service agreement.","@type":"Answer"}},{"name":"How often should marble floors be professionally polished in Dubai's climate?","@type":"Question","acceptedAnswer":{"text":"In Dubai’s hot, humid climate, we recommend a professional polish every 12‑18 months for high‑traffic residential floors and every 6‑12 months for commercial lobbies or hotel corridors. Regular maintenance, such as gentle cleaning and sealing, helps extend the interval and keeps the marble looking bright.","@type":"Answer"}}]},{"url":"https://servedubai.ae","name":"Madinat Al Haya","@type":"LocalBusiness","address":{"@type":"PostalAddress","addressCountry":"AE"},"@context":"https://schema.org","telephone":"+971 55 127 5545","areaServed":{"name":"AE","@type":"Country"},"priceRange":"$$"}]c:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$17"}}],"$L18","$L19","$L1a"]
+1b:I[5500,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js","/_next/static/chunks/04wh-_u4rta40.js"],"Image"]
+20:I[45686,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js","/_next/static/chunks/04wh-_u4rta40.js"],"default"]
+1c:T4b42,<p>Your <a href="https://servedubai.ae/blog/marble-polishing-dubai-guide">marble floors have lost their shine</a>, showing dull patches and tiny scratches that make your living room look tired instead of luxurious. You’ve tried DIY cleaners and online videos, but the results are either uneven or short‑lived, leaving you frustrated and worried about costly repairs. In Dubai’s hot, sandy climate, maintaining that high‑gloss finish requires more than a quick mop – it needs professional expertise, the right equipment, and a deep understanding of stone care. This guide walks you through everything you need to know to restore and preserve marble surfaces, from assessing damage and choosing the right polishing method to budgeting and hiring trusted specialists. By the end, you’ll know exactly how to find reliable marble floor polishing near me services that deliver a showroom shine and protect your investment for years to come.</p>
+<h2>Introduction: The Brilliance of Marble Floors in Dubai</h2>
+<h3>Why Marble is Prized in UAE Homes &amp; Businesses</h3>
+<p>Marble conveys timeless elegance, making it a preferred choice for villas, hotels, and corporate lobbies across Dubai. Its natural veining adds a sense of luxury that resonates with the region’s high‑end aesthetic.</p>
+<h3>The Challenge of Maintaining Marble in Dubai&#39;s Climate</h3>
+<p>Extreme heat, sandstorms, and high humidity accelerate staining and etching. Without proper care, even the finest marble can lose its shine and become vulnerable to surface damage.</p>
+<h3>Introducing Professional Marble Polishing</h3>
+<p>Madanat Al Haya offers expert marble polishing that restores depth, protects against Dubai’s harsh conditions, and preserves the stone’s innate beauty. Learn more about our <strong><a href="https://servedubai.ae/services/marble-polishing">professional marble polishing</a></strong> services.</p>
+<h2>Why Professional Marble Polishing is Essential in Dubai&#39;s Climate</h2>
+<h3>Combating Heat, Humidity, and Sand Abrasions</h3>
+<p>Dubai’s scorching summer temperatures cause marble to expand and contract, leading to micro‑cracks that weaken the surface. At the same time, the coastal humidity deposits mineral salts, while fine desert sand acts like a constant abrasive. Together, these factors dull the natural shine and can etch the stone. A qualified team, such as Madinat Al Haya, applies a high‑grade polishing compound that seals the pores, creating a protective barrier against heat‑induced stress, moisture penetration, and sand particles.</p>
+<h3>Restoring Lost Luster and Smoothness</h3>
+<p>Over time, everyday traffic and cleaning agents leave a hazy film on marble floors. Professional polishing removes this layer layer‑by‑layer, re‑exposing the stone’s original gloss. The process re‑levels any unevenness, resulting in a mirror‑like finish that ordinary DIY products simply cannot achieve.</p>
+<h3>Extending the Lifespan of Your Investment</h3>
+<p>Marble is a premium material, and in a market like Dubai, it represents a significant financial commitment. Regular polishing slows down wear, prevents staining, and reduces the likelihood of costly repairs. By maintaining the stone’s integrity, property owners—whether villas, offices, or commercial complexes—protect their investment for decades.</p>
+<h3>Ensuring Hygiene and Aesthetic Appeal</h3>
+<p>A polished marble surface is less porous, making it resistant to bacteria, mold, and dust accumulation—a crucial benefit in Dubai’s humid climate. The reflective finish also enhances natural and artificial lighting, elevating the overall aesthetic of any space. For homeowners and facility managers seeking the best marble care, choosing professional marble polishing is the smartest move.</p>
+<p><a href="https://servedubai.ae/services/marble-polishing">professional marble polishing</a> by Madinat Al Haya delivers these benefits while adhering to Dubai’s exacting standards for quality and reliability.</p>
+<h2>Finding &quot;Marble Floor Polishing Near Me&quot; in Dubai: A Step-by-Step Guide</h2>
+<h3>Leveraging Local Search &amp; Online Directories</h3>
+<p>When you type <strong><a href="https://servedubai.ae/services/marble-polishing">marble floor polishing near me</a></strong> into Google or Bing, the results are dominated by companies that have optimized their presence for Dubai‑based searches. Start with the Google Business profile – look for listings that display the <strong>Madinat Al Haya</strong> logo, a UAE phone number, and a verified address in Dubai. Platforms such as <strong>YallaBanana</strong>, <strong>Dubizzle Services</strong>, and the <strong>Dubai Department of Economic Development</strong> directory also let you filter by service type and location. Bookmark the top three providers and note whether they mention <em>marble floor restoration Dubai</em> or <em>stone polishing companies Dubai</em> in their descriptions; this signals that they understand the local market.</p>
+<h3>Verifying Credentials &amp; Licenses in the UAE</h3>
+<p>Dubai’s construction and cleaning sectors are regulated by the <strong>Dubai Municipality</strong> and the <strong>Dubai Civil Defence</strong>. A legitimate marble polishing contractor will display a <strong>trade license (TRN)</strong> and, where required, a <strong>Health &amp; Safety certificate</strong> on their website or in their office. Request a copy of the license number and cross‑check it on the Dubai Economic Department portal. For premium projects, such as villa marble cleaning Dubai, many owners also look for <strong>ISO 9001</strong> or <strong>ISO 14001</strong> certifications – not mandatory, but a strong indicator of quality management.</p>
+<h3>Reading Dubai‑Specific Customer Testimonials</h3>
+<p>Customer feedback in the UAE often mentions <a href="https://servedubai.ae/services/floor-cleaning">climate‑related challenges like sand abrasion</a> and high humidity. Scan reviews on <strong>Google</strong>, <strong>Trustpilot</strong>, and local forums like <strong>ExpatWoman</strong>. Pay attention to comments about <em>how to polish marble floors in Dubai</em> and whether the service provider offered a post‑polish maintenance plan. Positive testimonials that reference the <strong>professional marble care Dubai</strong> offered by Madinat Al Haya can give you confidence that the team knows how to protect marble against Dubai’s harsh environment.</p>
+<h3>The Importance of On‑Site Assessments</h3>
+<p>A reputable company will never quote a flat rate without first inspecting the floor. Schedule a free on‑site assessment where the technician checks for stains, etching, and structural cracks. During the visit, ask for a detailed proposal that outlines the <strong>marble polishing cost UAE</strong>, recommended sealants, and a timeline. This face‑to‑face interaction also lets you gauge the team’s professionalism and their ability to tailor services—whether you need <strong>commercial marble polishing UAE</strong> for a hotel lobby or a <strong>villa deep cleaning</strong> for a private residence. Choosing a provider that conducts thorough assessments ensures you get the shine you expect without hidden surprises.</p>
+<h2>Understanding Marble Polishing Services: What to Expect from Professionals</h2>
+<p>When you call a <strong><a href="https://servedubai.ae/services/marble-polishing">professional marble polishing</a></strong> team in Dubai, you are hiring a process that restores the stone’s original brilliance while protecting it against the region’s harsh climate. Below are the key stages you will encounter, each designed to address specific wear patterns and finish preferences.</p>
+<h3>The Diamond Grinding Process for Deep Scratches</h3>
+<p>Diamond grinding is the first line of defence against deep gouges, etching, and uneven wear. Technicians mount a series of progressively finer diamond‑embedded pads on a low‑speed grinder. The coarse pad (usually 30‑40 µm) removes the damaged layer, while finer pads (down to 6 µm) level the surface. In Dubai’s sandy environment, this step also eliminates microscopic abrasives that settle in the marble’s pores, preventing future staining.</p>
+<h3>Honing for a Matte or Satin Finish</h3>
+<p>If a glossy surface is not desired—common in modern villas or commercial lobbies seeking a softer aesthetic—honing follows grinding. Honing uses abrasive pads without the reflective grit of a polish. The result is a uniform, low‑sheen finish that reduces glare and hides minor imperfections. This matte or satin look is particularly popular for high‑traffic areas where a subtle elegance is preferred over high‑gloss shine.</p>
+<h3>Polishing to Achieve a High‑Gloss Shine</h3>
+<p>For a showroom‑level sparkle, polishing employs ultra‑fine diamond compounds (typically 0.5‑1 µm) and a high‑speed polishing machine. The stone’s surface is smoothed to a mirror‑like finish, enhancing colour depth and light reflection. In the UAE, a high‑gloss surface also makes cleaning easier because dust and sand do not adhere as readily.</p>
+<h3>Crystallization vs. Topical Sealers: Which is Best for UAE?</h3>
+<ul>
+<li><strong>Crystallization</strong>: A chemical process that reacts with calcium ions in the marble, forming a hard, translucent layer. It offers long‑lasting protection against stains and is UV‑stable—ideal for outdoor patios and sun‑exposed interiors.</li>
+<li><strong>Topical Sealers</strong>: A surface coating applied after polishing. It provides immediate water‑repellency but may require re‑application every 12‑18 months in Dubai’s high‑temperature climate.</li>
+</ul>
+<p><strong>Choosing the right method</strong> depends on the area’s exposure to sunlight and foot traffic. For most residential and commercial projects in Dubai, a combination—crystallization for durability plus a periodic topical sealer for added shine—delivers the best balance of aesthetics and protection.</p>
+<h2>Transparent Pricing for Marble Polishing in Dubai (2024 Guide)</h2>
+<h3>Factors Influencing the Cost Per Square Meter (AED)</h3>
+<ul>
+<li><strong>Type of marble</strong> – Carrara, Calacatta, or locally sourced Emperador each reacts differently to polishing chemicals and abrasives.</li>
+<li><strong>Condition of the floor</strong> – Light scratches cost less than deep etches or stains caused by humidity.</li>
+<li><strong>Surface preparation</strong> – Removal of old sealants, grout cleaning, or crack filling adds labour hours.</li>
+<li><strong>Location &amp; access</strong> – Projects in high‑rise towers or villas with limited access may require extra equipment, raising the per‑meter rate.</li>
+<li><strong>Frequency of service</strong> – One‑off restoration is priced higher than a scheduled maintenance contract.</li>
+</ul>
+<h3>Average Price Ranges for Residential vs. Commercial Projects</h3>
+<table>
+<thead>
+<tr>
+<th>Project Type</th>
+<th>Typical Cost (AED/m²)</th>
+<th>Notes</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Villa / Apartment (residential)</td>
+<td>45 – 85</td>
+<td>Includes surface prep, polishing, and a 2‑year sealant.</td>
+</tr>
+<tr>
+<td>Retail outlet / Hotel lobby (commercial)</td>
+<td>70 – 120</td>
+<td>Higher labour density, stricter finish standards, and compliance reporting.</td>
+</tr>
+<tr>
+<td>Large‑scale office towers</td>
+<td>65 – 110</td>
+<td>Often bundled with regular floor‑care programmes.</td>
+</tr>
+</tbody></table>
+<h3>What&#39;s Included in a Standard Quote</h3>
+<ul>
+<li>Site inspection and condition report.</li>
+<li>Removal of old sealant and gentle grinding of the top 1‑2 mm.</li>
+<li>Application of a premium polishing compound followed by a UV‑stable seal.</li>
+<li>Post‑service cleaning and a written maintenance guide.</li>
+<li>Warranty for surface gloss (typically 12 months).</li>
+</ul>
+<h3>The Value of Investment: Long‑Term Savings</h3>
+<p>A properly polished marble floor resists stains, reduces the need for aggressive cleaning agents, and extends the life of the stone by up to 10 years. This translates into lower <strong>floor cleaning services</strong> expenses, fewer replacement cycles, and higher property resale value. Choosing a reputable provider such as Madinat Al Haya ensures the upfront cost is balanced by durability, aesthetic appeal, and peace of mind.</p>
+<h2>DIY vs. Professional Marble Polishing in UAE: A Comparison</h2>
+<h3>Risks of DIY Methods in High Humidity</h3>
+<p>Dubai’s desert climate brings high humidity and temperature swings that can trap moisture inside marble pores. Home‑grown polishing mixtures often lack the right pH balance, leading to cloud‑y spots or etching when the surface dries unevenly. In a humid environment, these imperfections become permanent, diminishing the natural shine and inviting stains.</p>
+<h3>The Need for Specialized Equipment and Expertise</h3>
+<p>Professional teams, such as Madinat Al Haya, use industrial‑grade polishers, diamond‑grit pads, and moisture‑controlled sealants that adapt to UAE conditions. Their technicians understand how each marble grade reacts to abrasives, ensuring a uniform finish without over‑grinding delicate veins.</p>
+<h3>Time, Effort, and Potential for Damage</h3>
+<p>A DIY project can stretch over days, requiring frequent re‑application, sanding, and careful rinsing. One slip—using the wrong pad or applying excessive pressure—can scratch the surface, creating costly repair work. In contrast, a trained crew completes the job in a single, well‑orchestrated session, preserving the floor’s integrity.</p>
+<h3>When to Opt for Professional Excellence</h3>
+<p>Choose a professional service when you need a showroom‑level finish, long‑lasting protection, or have high‑traffic areas such as villas, offices, or commercial lobbies. Madinat Al Haya’s <a href="https://servedubai.ae/services/marble-polishing">professional marble polishing</a> combines local expertise with premium equipment, delivering results that DIY simply cannot match.</p>
+<h2>Maintaining Your Polished Marble Floors in Dubai: Post‑Service Care</h2>
+<h3>Daily Cleaning Best Practices for UAE Homes</h3>
+<ul>
+<li><strong>Soft microfiber mop</strong>: Sweep or vacuum loose debris, then mop with a damp (not wet) microfiber cloth to avoid water spots.</li>
+<li><strong>pH‑neutral cleaner</strong>: Choose a marble‑safe, pH‑balanced solution; avoid acidic or alkaline detergents that can dull the finish.</li>
+<li><strong>Spot‑treat spills immediately</strong>: Blot (don’t rub) coffee, citrus juice, or oil with a clean cloth, then rinse with water and dry.</li>
+<li><strong>Avoid abrasive tools</strong>: No steel wool, scrub brushes, or harsh scouring pads—these can scratch the polished surface.</li>
+</ul>
+<h3>Recommended Sealing Schedules for Longevity</h3>
+<table>
+<thead>
+<tr>
+<th>Surface Type</th>
+<th>Recommended Seal</th>
+<th>Frequency</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Residential marble (villa, apartment)</td>
+<td>Penetrating impregnating seal</td>
+<td>Every 12‑18 months</td>
+</tr>
+<tr>
+<td>Commercial high‑traffic marble</td>
+<td>High‑performance surface seal</td>
+<td>Every 6‑12 months</td>
+</tr>
+</tbody></table>
+<p>A <a href="https://servedubai.ae/blog/marble-polishing-dubai-cost-guide">fresh seal restores shine</a> and creates a barrier against Dubai’s hot, humid climate. Schedule the sealing after the floor has fully cured post‑polishing (typically 48‑72 hours).</p>
+<h3>Preventing Stains and Etching in High‑Traffic Areas</h3>
+<ul>
+<li><strong>Use entry mats</strong> at doorways to capture sand and grit that can micro‑scratch the surface.</li>
+<li><strong>Place felt pads</strong> under furniture legs and appliance bases.</li>
+<li><strong>Apply a protective runner</strong> in hallways and kitchen aisles where spills are common.</li>
+<li><strong>Limit exposure to acidic agents</strong> such as lemon, vinegar, or cleaning agents with bleach; these can cause etching on marble.</li>
+</ul>
+<h3>Periodic Professional Check‑ups and Maintenance</h3>
+<ul>
+<li><strong>Quarter‑yearly inspections</strong> by a trusted marble care specialist (e.g., a <a href="https://servedubai.ae/services/marble-polishing">professional marble polishing</a> provider) to assess wear, reseal if needed, and address micro‑scratches.</li>
+<li><strong>Annual deep cleaning</strong>: A professional floor cleaning service can remove embedded grime and restore the high‑gloss finish without compromising the seal.</li>
+<li><strong>Document maintenance</strong>: Keep a log of cleaning dates, products used, and any seal applications to track the floor’s health over time.</li>
+</ul>
+<p><strong>Quick Checklist for Homeowners</strong></p>
+<ol>
+<li>Sweep/vacuum daily.</li>
+<li>Mop with pH‑neutral solution.</li>
+<li>Spot‑treat spills instantly.</li>
+<li>Apply seal every 12‑18 months (residential) or 6‑12 months (commercial).</li>
+<li>Schedule professional inspection twice a year.</li>
+</ol>
+<p>Following this routine ensures your marble floors stay radiant, resilient, and ready to impress in Dubai’s demanding environment.</p>
+<h2>Choosing the Right Partner: Your Dubai Marble Polishing Checklist</h2>
+<h3>Key Questions to Ask Potential Providers</h3>
+<ul>
+<li>How many years of experience do you have polishing marble in Dubai’s humid climate?</li>
+<li>Which equipment and eco‑friendly compounds do you use for a high‑gloss finish?</li>
+<li>Can you provide a detailed scope of work and a clear timeline?</li>
+</ul>
+<h3>Understanding Service Guarantees and Insurance</h3>
+<p>A reputable contractor should back their work with a written guarantee—typically 12‑24 months for the polish layer. Verify that they carry public liability insurance and workers’ compensation; this protects you from accidental damage or injuries on site.</p>
+<h3>Reviewing Local Case Studies and Client Success Stories</h3>
+<p>Ask for recent project portfolios that showcase residential villas, hotel lobbies, and commercial malls across the UAE. Look for before‑and‑after photos, client testimonials, and any references you can contact. Real‑world examples demonstrate the provider’s ability to handle the scale and finish you expect.</p>
+<h3>Madinat Al Haya&#39;s Commitment to Quality and Trust</h3>
+<p>Madinat Al Haya combines local expertise with premium standards. Our team is trained in the latest polishing techniques and uses only certified, low‑VOC products. We proudly display a portfolio of successful marble restorations throughout Dubai, from boutique villas to high‑traffic office complexes.</p>
+<p><strong>Practical Checklist</strong></p>
+<ul>
+<li>Verify licensing and insurance documents.</li>
+<li>Request a written guarantee and clear cost breakdown.</li>
+<li>Review at least three recent local case studies.</li>
+<li>Confirm the use of approved, environmentally safe polishing agents.</li>
+<li>Ensure the provider offers post‑service maintenance advice.</li>
+</ul>
+<p>Following this checklist will help you select a partner who delivers the shine, durability, and peace of mind you deserve for your marble floors.</p>
+18:["$","article",null,{"className":"aig","children":[["$","header",null,{"className":"aig-hero","children":[["$","div",null,{"className":"aig-hero-img","children":[["$","$L1b",null,{"src":"/images/services/deep-cleaning.webp","alt":"Marble Floor Polishing Near Me in Dubai: The Definitive Guide","fill":true,"priority":true,"unoptimized":true,"sizes":"100vw","style":{"objectFit":"cover"}}],["$","div",null,{"className":"aig-hero-scrim"}]]}],["$","div",null,{"className":"aig-hero-inner","children":[["$","nav",null,{"className":"aig-crumb","aria-label":"Breadcrumb","children":[["$","$L8",null,{"href":"/","children":"Home"}],["$","span",null,{"children":"/"}],["$","$L8",null,{"href":"/blog","children":"Blog"}],["$","span",null,{"children":"/"}],["$","span",null,{"className":"cur","children":"Deep Guide"}]]}],["$","span",null,{"className":"aig-badge","children":[["$","span",null,{"className":"aig-badge-dot"}],"AI-Researched Deep Guide"]}],["$","h1",null,{"className":"aig-title","children":"Marble Floor Polishing Near Me in Dubai: The Definitive Guide"}],["$","div",null,{"className":"aig-meta","children":[["$","span",null,{"children":"Madinat Al Haya"}],["$","span",null,{"className":"sep","children":"•"}],["$","span",null,{"children":"4 September 2026"}],["$","span",null,{"className":"sep","children":"•"}],["$","span",null,{"children":[15," min read"]}],["$","span",null,{"className":"aig-kw","children":["◆ ","marble floor polishing near me"]}]]}]]}]]}],["$","div",null,{"className":"aig-canvas","children":[["$","div",null,{"className":"aig-body","dangerouslySetInnerHTML":{"__html":"$1c"}}],"$L1d","$L1e","$L1f"]}]]}]
+19:["$","$L20",null,{}]
+21:T1c23,
+        .aig { --gold:#b8912f; --gold-lt:#c9a84c; --ink:#1a1510; --ink-2:#4a4030; --ink-3:#7a6f5c;
+          --cream:#fdfcf8; --panel:#f7f2e8; --line:rgba(26,21,16,0.09);
+          font-family:var(--font-work), sans-serif; background:var(--cream); }
+
+        /* Hero */
+        .aig-hero { position:relative; min-height:clamp(360px,52vh,540px); display:flex; align-items:flex-end; overflow:hidden; }
+        .aig-hero-img { position:absolute; inset:0; }
+        .aig-hero-scrim { position:absolute; inset:0; background:linear-gradient(180deg, rgba(12,9,6,0.35) 0%, rgba(12,9,6,0.25) 45%, rgba(12,9,6,0.88) 100%); }
+        .aig-hero-inner { position:relative; width:100%; max-width:900px; margin:0 auto; padding:0 24px 52px; }
+        .aig-crumb { display:flex; gap:8px; align-items:center; font-size:0.82rem; color:#e6dcc4; margin-bottom:16px; }
+        .aig-crumb a { color:#f0d27a; text-decoration:none; }
+        .aig-crumb .cur { color:#fff; }
+        .aig-badge { display:inline-flex; align-items:center; gap:8px; font-size:0.7rem; font-weight:700; letter-spacing:0.15em; text-transform:uppercase;
+          padding:7px 15px; border-radius:999px; color:#1a1510; background:linear-gradient(90deg,#f0d27a,#c9a84c); box-shadow:0 8px 24px -8px rgba(201,168,76,0.6); }
+        .aig-badge-dot { width:7px; height:7px; border-radius:50%; background:#1a1510; animation:aigpulse 1.8s infinite; }
+        @keyframes aigpulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+        .aig-title { font-family:var(--font-josefin), sans-serif; font-weight:700; color:#fff; line-height:1.12;
+          font-size:clamp(2rem,4.8vw,3.15rem); margin:16px 0 14px; text-shadow:0 2px 24px rgba(0,0,0,0.55); }
+        .aig-meta { display:flex; flex-wrap:wrap; align-items:center; gap:10px; font-size:0.9rem; color:#eadfca; }
+        .aig-meta .sep { color:#c9a84c; }
+        .aig-kw { margin-left:4px; color:#f0d27a; background:rgba(0,0,0,0.28); border:1px solid rgba(240,210,122,0.4);
+          padding:3px 13px; border-radius:999px; font-size:0.8rem; font-weight:600; }
+
+        /* Floating article card */
+        .aig-canvas { position:relative; max-width:760px; margin:-44px auto 64px; padding:clamp(28px,5vw,60px);
+          background:#fff; border-radius:22px; box-shadow:0 24px 70px -30px rgba(26,21,16,0.35), 0 2px 0 rgba(201,168,76,0.15);
+          border:1px solid var(--line); }
+
+        /* Body typography — high contrast on white */
+        .aig-body { font-size:1.14rem; line-height:1.85; color:var(--ink-2); }
+        .aig-body > :first-child { margin-top:0; }
+        .aig-body > p:first-of-type::first-letter { float:left; font-family:var(--font-josefin), sans-serif; font-weight:700;
+          font-size:3.5rem; line-height:0.82; padding:6px 12px 0 0; color:var(--gold); }
+        .aig-body h2 { font-family:var(--font-josefin), sans-serif; font-size:clamp(1.5rem,3vw,2rem); font-weight:700; color:var(--ink);
+          margin:2.6rem 0 1rem; padding-bottom:0.5rem; border-bottom:2px solid rgba(201,168,76,0.35); line-height:1.25; }
+        .aig-body h3 { font-family:var(--font-josefin), sans-serif; font-size:1.3rem; font-weight:700; color:var(--gold); margin:1.9rem 0 0.7rem; }
+        .aig-body p { margin:1.1rem 0; }
+        .aig-body strong { color:var(--ink); font-weight:700; }
+        .aig-body a { color:var(--gold); font-weight:600; text-decoration:none; border-bottom:1.5px solid rgba(184,145,47,0.35); }
+        .aig-body a:hover { border-bottom-color:var(--gold); }
+        .aig-body ul, .aig-body ol { margin:1.2rem 0; padding:0; list-style:none; display:flex; flex-direction:column; gap:0.7rem; }
+        .aig-body ul li { position:relative; padding-left:30px; }
+        .aig-body ul li::before { content:''; position:absolute; left:0; top:0.5rem; width:9px; height:9px; border-radius:50%;
+          background:var(--gold); box-shadow:0 0 0 4px rgba(201,168,76,0.15); }
+        .aig-body ol { counter-reset:aig; }
+        .aig-body ol li { position:relative; padding-left:38px; counter-increment:aig; }
+        .aig-body ol li::before { content:counter(aig); position:absolute; left:0; top:0; width:26px; height:26px; border-radius:50%;
+          background:linear-gradient(135deg,#f0d27a,#c9a84c); color:#1a1510; font-size:0.82rem; font-weight:700;
+          display:flex; align-items:center; justify-content:center; }
+        .aig-body table { width:100%; border-collapse:collapse; margin:1.8rem 0; font-size:1rem;
+          border:1px solid rgba(201,168,76,0.3); border-radius:12px; overflow:hidden; }
+        .aig-body th { background:rgba(201,168,76,0.14); color:var(--ink); text-align:left; padding:13px 16px; font-weight:700;
+          font-family:var(--font-josefin), sans-serif; }
+        .aig-body td { padding:12px 16px; border-top:1px solid var(--line); color:var(--ink-2); }
+        .aig-body tr:nth-child(even) td { background:rgba(201,168,76,0.04); }
+        .aig-body blockquote { margin:1.7rem 0; padding:16px 22px; background:var(--panel);
+          border-left:4px solid var(--gold); border-radius:0 12px 12px 0; color:var(--ink); font-style:italic; }
+        .aig-body code { background:var(--panel); padding:2px 7px; border-radius:5px; font-size:0.9em; color:#8a6d1f; }
+
+        /* CTA */
+        .aig-cta { text-align:center; margin:3rem 0 2.5rem; padding:42px 28px; border-radius:18px;
+          background:linear-gradient(135deg,#1a1510 0%,#2d1f0a 55%,#3a2a05 100%); border:1px solid rgba(201,168,76,0.3); }
+        .aig-cta h2 { font-family:var(--font-josefin), sans-serif; font-size:1.75rem; font-weight:700; color:#fff; margin:0 0 8px; }
+        .aig-cta p { color:#d8ceba; margin:0 0 22px; }
+        .aig-cta-btns { display:flex; gap:14px; justify-content:center; flex-wrap:wrap; }
+        .aig-btn-wa { background:#25D366; color:#0a0e17; font-weight:700; font-size:1.02rem; padding:14px 30px; border-radius:999px; text-decoration:none; }
+        .aig-btn-call { border:2px solid #c9a84c; color:#f0d27a; font-weight:700; font-size:1.02rem; padding:12px 28px; border-radius:999px; text-decoration:none; }
+
+        /* FAQ */
+        .aig-faq { margin:2.5rem 0 0.5rem; }
+        .aig-faq-h { font-family:var(--font-josefin), sans-serif; font-size:1.65rem; font-weight:700; color:var(--ink); margin:0 0 1.1rem; }
+        .aig-faq-item { background:var(--cream); border:1px solid var(--line); border-radius:12px; margin-bottom:12px; overflow:hidden; }
+        .aig-faq-item summary { list-style:none; cursor:pointer; display:flex; justify-content:space-between; align-items:center; gap:14px;
+          padding:18px 22px; font-family:var(--font-josefin), sans-serif; font-size:1.06rem; font-weight:700; color:var(--ink); }
+        .aig-faq-item summary::-webkit-details-marker { display:none; }
+        .aig-faq-plus { color:var(--gold); font-size:1.5rem; font-weight:400; transition:transform 0.2s; flex-shrink:0; }
+        .aig-faq-item[open] .aig-faq-plus { transform:rotate(45deg); }
+        .aig-faq-item p { margin:0; padding:0 22px 20px; color:var(--ink-2); line-height:1.75; }
+
+        .aig-back { margin-top:1.75rem; padding-top:1.5rem; border-top:1px solid var(--line); }
+        .aig-back a { color:var(--gold); font-weight:700; text-decoration:none; }
+      1a:["$","style",null,{"children":"$21"}]
+1d:["$","div",null,{"className":"aig-cta","children":[["$","h2",null,{"children":"Get a Free Quote Today"}],["$","p",null,{"children":"Same-day professional service across Dubai & all UAE Emirates · Transparent pricing"}],["$","div",null,{"className":"aig-cta-btns","children":[["$","a",null,{"href":"https://wa.me/971551275545?text=Hi%20Madinat%20Alhaya%2C%20I%20need%20cleaning%20services.%20Please%20contact%20me%20with%20details%20and%20pricing.","target":"_blank","rel":"noopener noreferrer","className":"aig-btn-wa","children":"WhatsApp Now"}],["$","a",null,{"href":"tel:+971551275545","className":"aig-btn-call","children":["Call ","+971551275545"]}]]}]]}]
+1e:["$","section",null,{"className":"aig-faq","children":[["$","h2",null,{"className":"aig-faq-h","children":"Frequently Asked Questions"}],[["$","details","0",{"className":"aig-faq-item","open":true,"children":[["$","summary",null,{"children":["How quickly can I book a marble polishing service 'near me' in Dubai?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"You can usually schedule a marble polishing service within 24‑48 hours after confirming availability, and even faster for urgent requests. Our online portal and dedicated hotline let you pick a convenient date, and we’ll dispatch a team to your Dubai address on the agreed day. Contact us for exact timing."}]]}],["$","details","1",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["What documentation or permits are required for marble polishing in residential/commercial buildings in Dubai?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"For residential projects no special permits are required, but you must provide proof of ownership or tenancy to the service team. Commercial properties often need a building‑management approval and, if work is performed in common areas, a copy of the facility’s maintenance plan. Supplying these documents speeds up scheduling."}]]}],["$","details","2",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["Is professional marble polishing safe for all types of marble found in UAE properties?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Professional marble polishing in Dubai is safe for the most common varieties found locally—such as Carrara, Calacatta, Arabian limestone, and locally quarried marble—because technicians use pH‑neutral chemicals and calibrated grinding pads. Extremely porous or historic stones may need a pre‑assessment, and we’ll recommend the appropriate method before starting."}]]}],["$","details","3",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["How long does the marble polishing process typically take for a standard villa or apartment in Dubai?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"A typical villa with 150–200 m² of marble flooring takes about 2‑3 days from surface preparation to final polish, while a smaller apartment of 80–100 m² can be completed in 1‑2 days. Time may vary with the floor’s condition, number of rooms, and any required repairs."}]]}],["$","details","4",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["Do I need to vacate my premises during the marble polishing service?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"You do not need to completely vacate the property, but we ask occupants to stay clear of the work zones for safety and to prevent dust accumulation on furniture. In high‑traffic areas we may schedule a short temporary relocation during grinding, then resume normal use once the polish has cured."}]]}],["$","details","5",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["What are the typical payment methods accepted by professional marble polishing companies in Dubai?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"Most professional marble polishing companies in Dubai accept cash, major credit cards (Visa, MasterCard), and digital payments such as Emirates NBD’s e‑wallet or Apple Pay. For larger commercial contracts we also offer bank transfers and post‑project invoicing with net‑30 terms, after a signed service agreement."}]]}],"$L22"]]}]
+1f:["$","div",null,{"className":"aig-back","children":["$","$L8",null,{"href":"/blog","children":"← Back to all articles"}]}]
+22:["$","details","6",{"className":"aig-faq-item","open":false,"children":[["$","summary",null,{"children":["How often should marble floors be professionally polished in Dubai's climate?",["$","span",null,{"className":"aig-faq-plus","children":"+"}]]}],["$","p",null,{"children":"In Dubai’s hot, humid climate, we recommend a professional polish every 12‑18 months for high‑traffic residential floors and every 6‑12 months for commercial lobbies or hotel corridors. Regular maintenance, such as gentle cleaning and sealing, helps extend the interval and keeps the marble looking bright."}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+23:I[27201,["/_next/static/chunks/03xd~cau~.qq_.js","/_next/static/chunks/11hqrz-.rh7v8.js","/_next/static/chunks/182fs1hn0ahor.js","/_next/static/chunks/07h-lbp6rv0rd.js","/_next/static/chunks/0xbcw5owglc7e.js"],"IconMark"]
+f:null
+14:[["$","title","0",{"children":"Marble Floor Polishing in Dubai | Professional Services | Madinat Alhaya"}],["$","meta","1",{"name":"description","content":"Restore your marble floors’ shine with expert polishing in Dubai. Fast, reliable, and tailored to UAE’s climate. Book now!"}],["$","meta","2",{"name":"keywords","content":"cleaning services Dubai,cleaning company Dubai,cleaning services UAE,deep cleaning Dubai,professional cleaning services Dubai,best cleaning company in Dubai,cleaning services Abu Dhabi,cleaning services Sharjah,home cleaning services Dubai,villa deep cleaning Dubai,sofa cleaning Dubai,carpet cleaning Dubai,marble polishing Dubai,office cleaning Dubai,apartment cleaning Dubai,mattress cleaning Dubai,curtain cleaning Dubai,cleaning services near me Dubai,house cleaning Dubai,move in move out cleaning Dubai,same-day cleaning Dubai,cleaning services Ajman,cleaning services RAK,cleaning services Fujairah,cleaning services Umm Al Quwain,eco-friendly cleaning Dubai,best cleaning services UAE"}],["$","meta","3",{"name":"robots","content":"index, follow"}],["$","meta","4",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","5",{"name":"geo.region","content":"AE-DU"}],["$","meta","6",{"name":"geo.placename","content":"Dubai, United Arab Emirates"}],["$","meta","7",{"name":"geo.position","content":"25.2048;55.2708"}],["$","meta","8",{"name":"ICBM","content":"25.2048, 55.2708"}],["$","meta","9",{"name":"language","content":"en-AE"}],["$","meta","10",{"name":"content-language","content":"en-AE"}],["$","link","11",{"rel":"canonical","href":"https://servedubai.ae/blog/marble-floor-polishing-dubai-guide"}],["$","link","12",{"rel":"alternate","hrefLang":"en-AE","href":"https://servedubai.ae/blog/marble-floor-polishing-dubai-guide"}],["$","link","13",{"rel":"alternate","hrefLang":"x-default","href":"https://servedubai.ae/blog/marble-floor-polishing-dubai-guide"}],["$","meta","14",{"name":"google-site-verification","content":"kcRs3u_-iV5Ou0Op2OAvNBajnVhBwo3epUrUm0gEKCg"}],["$","meta","15",{"property":"og:title","content":"Marble Floor Polishing in Dubai | Professional Services | Madinat Alhaya"}],["$","meta","16",{"property":"og:description","content":"Restore your marble floors’ shine with expert polishing in Dubai. Fast, reliable, and tailored to UAE’s climate. Book now!"}],["$","meta","17",{"property":"og:url","content":"https://servedubai.ae/blog/marble-floor-polishing-dubai-guide"}],["$","meta","18",{"property":"og:site_name","content":"Madinat Alhaya Building Cleaning Services"}],["$","meta","19",{"property":"og:locale","content":"en_AE"}],["$","meta","20",{"property":"og:image","content":"https://servedubai.ae/images/services/deep-cleaning.webp"}],["$","meta","21",{"property":"og:image:width","content":"1200"}],["$","meta","22",{"property":"og:image:height","content":"630"}],["$","meta","23",{"property":"og:image:alt","content":"Marble Floor Polishing in Dubai | Professional Services"}],["$","meta","24",{"property":"og:type","content":"website"}],["$","meta","25",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","26",{"name":"twitter:title","content":"Marble Floor Polishing in Dubai | Professional Services | Madinat Alhaya"}],["$","meta","27",{"name":"twitter:description","content":"Restore your marble floors’ shine with expert polishing in Dubai. Fast, reliable, and tailored to UAE’s climate. Book now!"}],["$","meta","28",{"name":"twitter:image","content":"https://servedubai.ae/images/services/deep-cleaning.webp"}],["$","link","29",{"rel":"icon","href":"/favicon.ico?favicon.0x3dzn~oxb6tn.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L23","30",{}]]
